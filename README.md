@@ -111,3 +111,23 @@ You can complete the following actions at any time:
 ```bash
 sudo systemctl daemon-reload
 sudo systemctl enable elasticsearch.service
+
+## [Day 5: Deploying a Windows Server on Vultr Cloud](https://github.com/Virus192/Day-4-Elasticsearch-Security-Configuration)
+
+🌟 **Day 5 of MYDFIR 30 Days SOC Challenge: Deploying a Windows Server on Vultr Cloud** 🌟
+
+Today, I deployed a Windows Server on Vultr Cloud, moving it out of VPC 2.0 for public accessibility.
+
+## Quick Steps
+
+1. **Login to Vultr Cloud** and click on the **Deploy +** button.
+2. **Choose Server Type:** Cloud Compute — Shared CPU.
+3. **Select Plan:** 55GB SSD, 1 vCPU, 2GB memory.
+4. **Deploy:** Click **Deploy Now** and wait 5-7 minutes.
+5. **Access:** Use the provided credentials to log in.
+
+Deploying a Windows Server on Vultr Cloud is a simple process, ideal for making your server publicly accessible while keeping costs low.
+
+Stay tuned for more tutorials!
+
+![Windows Server Deployment](INSERT IMAGE URL HERE)
