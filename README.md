@@ -24,7 +24,7 @@ FREE $300 Cloud Credit (Vultr): [link](https://lnkd.in/drVeaA5s) - Only applies 
 ---
 ![SOC LAB Image](https://github.com/Virus192/elk-soc-automation/blob/main/images/SOC%20LAB.jpg)
 
-## Day 2: ELK Stack Deep Dive
+## [Day 2: ELK Stack Deep Dive](https://github.com/YourUsername/your-repo-for-day-2)
 
 🚀 **Day 2 of MYDFIR 30 Days SOC Challenge: We took a Deep Dive into the ELK Stack** 🚀  
 Today we focus on the ELK Stack—a cornerstone technology in Security Operations Centers (SOC) for effective log management and threat analysis. 
