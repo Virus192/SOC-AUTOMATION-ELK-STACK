@@ -112,6 +112,8 @@ You can complete the following actions at any time:
 sudo systemctl daemon-reload
 sudo systemctl enable elasticsearch.service
 ```
+![SOC](https://raw.githubusercontent.com/Virus192/elk-soc-automation/main/images/photo_5965442483469009319_w.jpg)
+
 ## [Day 5: Deploying a Windows Server on Vultr Cloud](https://github.com/Virus192/Day-5-Deploying-a-Windows-Server-on-Vultr-Cloud)
 
 🌟 **Day 5 of MYDFIR 30 Days SOC Challenge: Deploying a Windows Server on Vultr Cloud** 🌟
