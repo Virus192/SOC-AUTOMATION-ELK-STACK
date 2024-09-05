@@ -55,7 +55,7 @@ Today we focus on the ELK Stack—a cornerstone technology in Security Operation
 - **Customizable Dashboards**: Empowers SOC analysts to create tailored dashboards for critical security metrics.
 
 ---
-## Day 3: Building a Secure Elasticsearch Deployment
+## [Day 3: Building a Secure Elasticsearch Deployment](https://github.com/Virus192/Day-2-ELK-Stack-Deep-Dive)
 
 🌟 **Day Three of #MYDFIRSOCChallenge: Building a Secure Elasticsearch Deployment** 🌟  
 Special Thanks to MYDFIR for this exciting challenge!
@@ -81,7 +81,7 @@ FREE $300 Cloud Credit (Vultr): [Link](https://lnkd.in/drVeaA5s) - Only applies 
 
 ![Elasticsearch Setup](INSERT IMAGE URL HERE)
 
-## Day 4: Elasticsearch Security Configuration
+## [Day 4: Elasticsearch Security Configuration](https://github.com/Virus192/Day-2-ELK-Stack-Deep-Dive)
 
 ---------------------------
 
