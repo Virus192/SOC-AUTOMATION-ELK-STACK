@@ -128,6 +128,5 @@ Today, I deployed a Windows Server on Vultr Cloud, moving it out of VPC 2.0 for 
 
 Deploying a Windows Server on Vultr Cloud is a simple process, ideal for making your server publicly accessible while keeping costs low.
 
-Stay tuned for more tutorials!
 
-![Windows Server Deployment](INSERT IMAGE URL HERE)
+![Windows Server Deployment](https://raw.githubusercontent.com/Virus192/elk-soc-automation/main/images/1_VCKRGZAd1IWFjfHcdCKCDg.png)
