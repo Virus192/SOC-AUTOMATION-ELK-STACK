@@ -1,7 +1,7 @@
 # ELK SOC Automation - 30 Days SOC Challenge
  ELK Stack SOC automation using Fleet and OS Ticketing Server
 
-## Day ONE: Logical Diagram
+## Day 1: Logical Diagram
 
 🚀 Embarking on MYDFIR 30-Days SOC Challenge! by my mentor Steven ([link](https://lnkd.in/dRGfScbr)) 🚀  
 I'm thrilled to announce that I'll be diving into an intensive Security Operations Center (SOC) simulation, where I'll be provisioning and managing a complex environment on VULTR Cloud. This project is designed to enhance my skills as a SOC Analyst by replicating real-world scenarios and challenges.
@@ -55,7 +55,7 @@ Today we focus on the ELK Stack—a cornerstone technology in Security Operation
 - **Customizable Dashboards**: Empowers SOC analysts to create tailored dashboards for critical security metrics.
 
 ---
-## Day 3:
+## Day 3: Building a Secure Elasticsearch Deployment
 
 🌟 **Day Three of #MYDFIRSOCChallenge: Building a Secure Elasticsearch Deployment** 🌟  
 Special Thanks to MYDFIR for this exciting challenge!
@@ -81,7 +81,7 @@ FREE $300 Cloud Credit (Vultr): [Link](https://lnkd.in/drVeaA5s) - Only applies 
 
 ![Elasticsearch Setup](INSERT IMAGE URL HERE)
 
-## Day 4:
+## Day 4: Elasticsearch Security Configuration
 
 ---------------------------
 
