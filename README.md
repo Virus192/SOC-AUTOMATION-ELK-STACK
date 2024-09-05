@@ -79,7 +79,7 @@ As I progress through this challenge, I'm constantly reminded of the importance 
 
 FREE $300 Cloud Credit (Vultr): [Link](https://lnkd.in/drVeaA5s) - Only applies to new accounts.
 
-![Elasticsearch Setup](INSERT IMAGE URL HERE)
+![Elasticsearch Setup](https://raw.githubusercontent.com/Virus192/elk-soc-automation/main/images/photo_5960977688871158764_w.jpg)
 
 ## [Day 4: Elasticsearch Security Configuration](https://github.com/Virus192/Day-4-Elasticsearch-Security-Configuration)
 
