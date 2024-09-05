@@ -55,6 +55,9 @@ Today we focus on the ELK Stack—a cornerstone technology in Security Operation
 - **Customizable Dashboards**: Empowers SOC analysts to create tailored dashboards for critical security metrics.
 
 ---
+![SOC LAB Image](https://raw.githubusercontent.com/Virus192/Day-2-ELK-Stack-Deep-Dive/main/images/1_EElZCCfA9S0kgABEDi5sOw.png)
+
+
 ## [Day 3: Building a Secure Elasticsearch Deployment](https://github.com/Virus192/Day-3-Building-a-Secure-Elasticsearch-Deployment)
 
 🌟 **Day Three of #MYDFIRSOCChallenge: Building a Secure Elasticsearch Deployment** 🌟  
