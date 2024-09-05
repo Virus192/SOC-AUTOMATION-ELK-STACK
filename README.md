@@ -55,3 +55,34 @@ Today we focus on the ELK Stack—a cornerstone technology in Security Operation
 - **Customizable Dashboards**: Empowers SOC analysts to create tailored dashboards for critical security metrics.
 
 ---
+## Day 3: Building a Secure Elasticsearch Deployment
+
+🌟 **Day Three of MYDFIR SOC Challenge: Building a Secure Elasticsearch Deployment** 🌟  
+Today was all about diving deep into the world of Elasticsearch! 🎯 As part of the 30 Days SOC Challenge, I set up and secured an Elasticsearch instance.
+
+### What’s on the Plate?
+- Installed **Elasticsearch** on a robust Ubuntu 22.04 LTS environment. 🐧
+- Ensured a secure deployment by implementing a well-configured firewall. 🔒
+- Deployed within a VPC 2.0 on Vultr for enhanced network security. 🌐
+
+### Key Takeaways:
+- **Ubuntu 22.04 LTS** provides a stable and secure foundation for hosting Elasticsearch.
+- A secured **firewall setup** is non-negotiable—it protects our data and services.
+- Leveraging **VPC 2.0** in Vultr adds network segmentation and security.
+
+FREE $300 Cloud Credit (Vultr): [link](https://lnkd.in/drVeaA5s)
+
+---
+
+## Day 4: Elasticsearch Security Configuration
+
+### Security autoconfiguration information:
+
+- Authentication and authorization are enabled.
+- TLS for the transport and HTTP layers is enabled and configured.
+  
+The generated password for the `elastic` built-in superuser is: `OK6A_2wP9DZql=hYsc1M`.
+
+If this node should join an existing cluster, you can reconfigure this with:
+```bash
+/usr/share/elasticsearch/bin/elasticsearch-reconfigure-node --enrollment-token <token-here>
