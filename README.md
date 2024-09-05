@@ -55,34 +55,59 @@ Today we focus on the ELK Stack—a cornerstone technology in Security Operation
 - **Customizable Dashboards**: Empowers SOC analysts to create tailored dashboards for critical security metrics.
 
 ---
-## Day 3: Building a Secure Elasticsearch Deployment
+## Day 3:
 
-🌟 **Day Three of MYDFIR SOC Challenge: Building a Secure Elasticsearch Deployment** 🌟  
-Today was all about diving deep into the world of Elasticsearch! 🎯 As part of the 30 Days SOC Challenge, I set up and secured an Elasticsearch instance.
+🌟 **Day Three of #MYDFIRSOCChallenge: Building a Secure Elasticsearch Deployment** 🌟  
+Special Thanks to MYDFIR for this exciting challenge!
 
-### What’s on the Plate?
-- Installed **Elasticsearch** on a robust Ubuntu 22.04 LTS environment. 🐧
-- Ensured a secure deployment by implementing a well-configured firewall. 🔒
-- Deployed within a VPC 2.0 on Vultr for enhanced network security. 🌐
+Today was all about diving deep into the world of Elasticsearch Consulting! 🎯 As part of the #30DaysSOCChallenge, I had the opportunity to set up and secure an Elasticsearch instance, and it was an exciting ride. 🚀
+
+### What's on the Plate?
+- **Installed Elasticsearch on a robust Ubuntu 22.04 LTS environment**. 🐧
+- **Ensured a secure deployment by implementing a well-configured firewall**. 🔒
+- **Deployed within a VPC 2.0 on Vultr for enhanced network security**. 🌐
+
+### Why Does This Matter?
+Elasticsearch is a powerful tool in the SOC toolkit, enabling efficient search, analysis, and visualization of log data. However, ensuring its secure deployment is crucial to avoid becoming a target of the very threats we seek to defend against.
 
 ### Key Takeaways:
-- **Ubuntu 22.04 LTS** provides a stable and secure foundation for hosting Elasticsearch.
-- A secured **firewall setup** is non-negotiable—it protects our data and services.
-- Leveraging **VPC 2.0** in Vultr adds network segmentation and security.
+- **Ubuntu 22.04 LTS provides a stable and secure foundation for hosting Elasticsearch, minimizing vulnerabilities from the OS level.**
+- **A secured firewall setup is non-negotiable—it keeps unwanted visitors at bay, protecting our data and services.**
+- **Leveraging VPC 2.0 in Vultr adds an extra layer of network segmentation and security, isolating our deployment from potential threats.**
 
-FREE $300 Cloud Credit (Vultr): [link](https://lnkd.in/drVeaA5s)
+As I progress through this challenge, I'm constantly reminded of the importance of robust security practices in every layer of deployment. Looking forward to seeing how this setup will empower our security operations moving forward! 💪
 
----
+FREE $300 Cloud Credit (Vultr): [Link](https://lnkd.in/drVeaA5s) - Only applies to new accounts.
 
-## Day 4: Elasticsearch Security Configuration
+![Elasticsearch Setup](INSERT IMAGE URL HERE)
 
-### Security autoconfiguration information:
+## Day 4:
 
-- Authentication and authorization are enabled.
-- TLS for the transport and HTTP layers is enabled and configured.
-  
-The generated password for the `elastic` built-in superuser is: `OK6A_2wP9DZql=hYsc1M`.
+---------------------------
+
+### Security Autoconfiguration Information
+
+Authentication and authorization are enabled.  
+TLS for the transport and HTTP layers is enabled and configured.
+
+The generated password for the elastic built-in superuser is: `OK6A_2wP9DZql=hYsc1M`
 
 If this node should join an existing cluster, you can reconfigure this with:
+`/usr/share/elasticsearch/bin/elasticsearch-reconfigure-node --enrollment-token <token-here>`
+after creating an enrollment token on your existing cluster.
+
+You can complete the following actions at any time:
+
+- Reset the password of the elastic built-in superuser with:
+  `/usr/share/elasticsearch/bin/elasticsearch-reset-password -u elastic`.
+
+- Generate an enrollment token for Kibana instances with:
+  `/usr/share/elasticsearch/bin/elasticsearch-create-enrollment-token -s kibana`.
+
+- Generate an enrollment token for Elasticsearch nodes with:
+  `/usr/share/elasticsearch/bin/elasticsearch-create-enrollment-token -s node`.
+
+### NOT starting on installation, please execute the following statements to configure Elasticsearch service to start automatically using systemd
 ```bash
-/usr/share/elasticsearch/bin/elasticsearch-reconfigure-node --enrollment-token <token-here>
+sudo systemctl daemon-reload
+sudo systemctl enable elasticsearch.service
