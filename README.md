@@ -112,7 +112,7 @@ You can complete the following actions at any time:
 sudo systemctl daemon-reload
 sudo systemctl enable elasticsearch.service
 ```
-## [Day 5: Deploying a Windows Server on Vultr Cloud](https://github.com/Virus192/Day-4-Elasticsearch-Security-Configuration)
+## [Day 5: Deploying a Windows Server on Vultr Cloud](https://github.com/Virus192/Day-5-Deploying-a-Windows-Server-on-Vultr-Cloud)
 
 🌟 **Day 5 of MYDFIR 30 Days SOC Challenge: Deploying a Windows Server on Vultr Cloud** 🌟
 
