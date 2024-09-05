@@ -22,3 +22,4 @@ Feel free to engage with your thoughts and questions along the way!
 FREE $300 Cloud Credit (Vultr): [link](https://lnkd.in/drVeaA5s) - Only applies to new accounts.
 
 ---
+![SOC LAB Image](https://github.com/Virus192/elk-soc-automation/blob/main/images/SOC%20LAB.jpg)
