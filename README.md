@@ -88,10 +88,9 @@ FREE $300 Cloud Credit (Vultr): [Link](https://lnkd.in/drVeaA5s) - Only applies 
 
 ---------------------------
 
-### Security Autoconfiguration Information
-
-Authentication and authorization are enabled.  
-TLS for the transport and HTTP layers is enabled and configured.
+### 🌟 It's Day 4 of the MYDFIR 30-Day SOC Automation Challenge.
+ Here is our Task for today: Kibana Installation & Configuration 🌟
+ Today's journey was all about setting up and configuring Kibana to visualize and analyze our Elasticsearch data. Here's how it all went down:
 
 The generated password for the elastic built-in superuser is: `OK6A_2wP9DZql=hYsc1M`
 
