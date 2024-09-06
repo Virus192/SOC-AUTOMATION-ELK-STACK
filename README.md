@@ -1,4 +1,4 @@
-# ELK SOC Automation - 30 Days SOC Challenge
+# 30 Days SOC Automation Challenge
  ELK Stack SOC automation using Fleet and OS Ticketing Server
 
 ## Day 1: Logical Diagram
