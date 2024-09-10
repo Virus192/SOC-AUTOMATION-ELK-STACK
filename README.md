@@ -155,7 +155,7 @@ Deploying a Windows Server on Vultr Cloud is quick and easy, making it a great o
 
 ![insert image here](image.jpg)
 
-## [Day 7: Introduction to Fleet Server and Elastic Agent](https://github.com/Virus192/Day-6-Deploying-a-Windows-Server-on-Vultr-Cloud)
+## [Day 7: Introduction to Fleet Server and Elastic Agent](https://github.com/Virus192/Day-7-Introduction-to-Fleet-Server-and-Elastic-Agent)
 
  🌟 **Day 7 of MYDFIR 30 Days SOC Challenge: Exploring Fleet Server and Elastic Agent** 🌟
 
