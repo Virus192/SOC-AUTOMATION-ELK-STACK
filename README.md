@@ -252,7 +252,7 @@ Stay tuned for more insights tomorrow as we dive deeper into endpoint monitoring
 
 ![insert image here](image.jpg)
 
-## [Day 10: Ingesting Sysmon and Windows Defender Logs into Elasticsearch](https://github.com/Virus192/Day-9-Introduction-to-Sysmon/tree/main)
+## [Day 10: Ingesting Sysmon and Windows Defender Logs into Elasticsearch](https://github.com/Virus192/Day-10-Ingesting-Sysmon-and-Windows-Defender-Logs-into-Elasticsearch)
 
 
 🚀 **Day 10 of MYDFIR 30 Days SOC Challenge: Ingesting Sysmon and Windows Defender Logs into Elasticsearch** 🚀
