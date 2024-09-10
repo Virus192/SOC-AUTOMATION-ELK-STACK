@@ -203,3 +203,28 @@ Today's challenge dives into centralizing the management and monitoring of multi
 Successfully deployed a Fleet Server and enrolled a Windows Server, enabling real-time monitoring of logs and metrics through the Elastic Stack. This setup enhances our SOC’s ability to maintain operational visibility and detect potential threats.
 
 ![insert image here](image.jpg)
+
+
+## [Day 8: Installing Sysmon on a Windows Server](https://github.com/Virus192/Day-7-Setting-Up-Elastic-Fleet-Server-and-Enrolling-Windows-Server)
+
+
+**Day 8 of MYDFIR 30 Days SOC Challenge: Installing Sysmon for Advanced Telemetry** 🚀
+
+Today’s focus was on enhancing our visibility into system activity by installing Sysmon (System Monitor) on a Windows Server. Sysmon is a critical tool for SOC environments, providing detailed telemetry that aids in detecting suspicious activities and bolstering security.
+
+## Step-by-Step Highlights
+
+1. **Download Sysmon and Configuration File**
+   - Downloaded Sysmon and the popular Sysmon Olaf Configuration file from GitHub, which guides what system events to log.
+
+2. **Install Sysmon**
+   - Installed Sysmon using PowerShell and configured it with the downloaded configuration file.
+
+3. **Verify Telemetry**
+   - Verified telemetry by checking the Sysmon logs in the Event Viewer, ensuring it captures key activities such as process creation and network connections.
+
+Sysmon is now actively monitoring the Windows Server, providing valuable insights into system events. Another day, another tool deployed in our SOC environment—helping us stay one step ahead of potential threats. 💻🔒
+
+Stay tuned for more security setups!
+
+![insert image here](image.jpg)
