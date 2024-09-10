@@ -152,4 +152,5 @@ Today’s focus was on deploying a Windows Server and making it publicly accessi
 ## Why This Matters
 
 Deploying a Windows Server on Vultr Cloud is quick and easy, making it a great option for creating publicly available servers while keeping costs low. Looking forward to more challenges ahead!
+
 ![insert image here](image.jpg)
