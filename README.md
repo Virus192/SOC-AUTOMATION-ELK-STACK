@@ -229,7 +229,7 @@ Stay tuned for more security setups!
 
 ![insert image here](image.jpg)
 
-## [Day 9: Introduction to Sysmon](https://github.com/Virus192/Day-8-Installing-Sysmon-on-a-Windows-Server)
+## [Day 9: Introduction to Sysmon](https://github.com/Virus192/Day-9-Introduction-to-Sysmon)
 
  🌟 **Day 9 of MYDFIR 30 Days SOC Challenge: Introduction to Sysmon** 🌟
 
@@ -249,6 +249,27 @@ Sysmon, part of Microsoft's Sysinternals Suite, is a tool that logs critical sys
 Sysmon empowers SOC teams to gain deeper insights into endpoint activities, offering the ability to detect attacks early and correlate events across different logs using unique Process GUIDs.
 
 Stay tuned for more insights tomorrow as we dive deeper into endpoint monitoring with Sysmon! 💪
+
+![insert image here](image.jpg)
+
+## [Day 10: Ingesting Sysmon and Windows Defender Logs into Elasticsearch](https://github.com/Virus192/Day-9-Introduction-to-Sysmon/tree/main)
+
+
+🚀 **Day 10 of MYDFIR 30 Days SOC Challenge: Ingesting Sysmon and Windows Defender Logs into Elasticsearch** 🚀
+
+Today’s focus was on enhancing visibility into our Windows environment by setting up log ingestion for Sysmon and Windows Defender into Elasticsearch. This process allows for powerful log analysis and real-time threat detection within the SOC.
+
+#### Key Steps:
+
+🛠️ **Elastic Integrations**: Configured Sysmon and Windows Defender logs using Elastic’s GUI. For each integration:
+- Named and described the log sources, using Event Viewer to locate the correct channels.
+- Specified event IDs for Windows Defender to capture critical security actions, such as detecting malware and real-time protection status.
+
+🔒 **Firewall Configuration**: Ensured logs could be transmitted to Elasticsearch by setting up firewall rules to allow TCP traffic on port 9200.
+
+🔍 **Log Verification**: Used Elastic’s Discover feature to verify that the logs were being ingested properly, focusing on key event IDs (like `winlog.event_id: 5001` for Windows Defender).
+
+With Sysmon and Windows Defender logs now integrated, we’ve built a solid foundation for monitoring and responding to security events within our Windows infrastructure.
 
 ![insert image here](image.jpg)
 
