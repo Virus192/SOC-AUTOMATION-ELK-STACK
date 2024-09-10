@@ -134,3 +134,22 @@ Deploying a Windows Server on Vultr Cloud is a simple process, ideal for making 
 
 
 ![Windows Server Deployment](https://raw.githubusercontent.com/Virus192/elk-soc-automation/main/images/1_VCKRGZAd1IWFjfHcdCKCDg.png)
+
+## [Day 6: Deploying a Windows Server on Vultr Cloud](https://github.com/Virus192/Day-5-Deploying-a-Windows-Server-on-Vultr-Cloud)
+
+
+# 🚀 Day 6 of MYDFIR 30 Days SOC Challenge: Deploying a Windows Server on Vultr Cloud 🚀
+
+Today’s focus was on deploying a Windows Server and making it publicly accessible. We moved both our Windows and Ubuntu Servers out of VPC 2.0 to expose them to the internet. Here’s a step-by-step breakdown of how I accomplished this task.
+
+## Quick Steps
+
+1. **Login to Vultr Cloud:** Start by logging into your Vultr Cloud account and clicking on the **Deploy +** button.
+2. **Choose Server Type:** For this deployment, I selected **Cloud Compute — Shared CPU**, a cost-effective solution for light processing tasks.
+3. **Select Plan:** I opted for the **55GB SSD storage, 1 vCPU, and 2GB memory** plan, providing an ideal balance of cost and performance.
+4. **Deploy:** After selecting the configuration, clicking **Deploy Now** begins the installation, which completes in around 5-7 minutes.
+5. **Access Server:** Once deployed, Vultr provides the credentials to log into the Windows Server, which is now publicly accessible.
+
+## Why This Matters
+
+Deploying a Windows Server on Vultr Cloud is quick and easy, making it a great option for creating publicly available servers while keeping costs low. Looking forward to more challenges ahead!
