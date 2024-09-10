@@ -135,7 +135,7 @@ Deploying a Windows Server on Vultr Cloud is a simple process, ideal for making 
 
 ![Windows Server Deployment](https://raw.githubusercontent.com/Virus192/elk-soc-automation/main/images/1_VCKRGZAd1IWFjfHcdCKCDg.png)
 
-## [Day 6: Deploying a Windows Server on Vultr Cloud](https://github.com/Virus192/Day-5-Deploying-a-Windows-Server-on-Vultr-Cloud)
+## [Day 6: Deploying a Windows Server on Vultr Cloud](https://github.com/Virus192/Day-6-Deploying-a-Windows-Server-on-Vultr-Cloud)
 
  🚀 **Day 6 of MYDFIR 30 Days SOC Challenge: Deploying a Windows Server on Vultr Cloud** 🚀
 
