@@ -169,3 +169,37 @@ Leveraging Fleet Server simplifies your SOC operations, ensuring efficient data 
 
 ![insert image here](image.jpg)
 
+
+## [Day 7: Setting Up Elastic Fleet Server and Enrolling Windows Server](https://github.com/Virus192/Day-7-Setting-Up-Elastic-Fleet-Server-and-Enrolling-Windows-Server)
+
+🌟 **Day 7 of MYDFIR 30 Days SOC Challenge: Setting Up Elastic Fleet Server and Enrolling a Windows Server Using Elastic Agent** 🌟
+
+Today's challenge dives into centralizing the management and monitoring of multiple servers using Elastic Fleet and Elastic Agent. We set up a Fleet Server on Vultr, installed an Elastic Agent on a Windows Server, and enrolled it into our fleet for seamless monitoring.
+
+## Steps to Achieve This:
+
+### 1. Create Fleet Server on Vultr
+
+- Deployed a Fleet Server using Ubuntu 22.04 LTS on Vultr.
+- Selected **Optimized Cloud Compute** for enhanced performance and security.
+
+### 2. Configure Fleet in Elastic
+
+- Accessed Elastic's GUI, navigated to the **Fleet Management** tab, and added a new Fleet Server.
+- Generated the **Fleet Service Policy** and **Service Token** required for connecting the Elastic Agent.
+
+### 3. Install Elastic Agent on Fleet Server
+
+- SSH'd into the Fleet Server, updated the system, and installed the Elastic Agent using the Elastic GUI-generated command.
+- Configured firewall rules to allow necessary traffic on ports 9200 and 8200.
+
+### 4. Enroll Windows Server
+
+- Installed the Elastic Agent on a Windows Server via PowerShell.
+- The Windows Server was successfully enrolled and connected to the Fleet for centralized monitoring.
+
+## Outcome
+
+Successfully deployed a Fleet Server and enrolled a Windows Server, enabling real-time monitoring of logs and metrics through the Elastic Stack. This setup enhances our SOC’s ability to maintain operational visibility and detect potential threats.
+
+![insert image here](image.jpg)
