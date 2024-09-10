@@ -135,7 +135,7 @@ Deploying a Windows Server on Vultr Cloud is a simple process, ideal for making 
 
 ![Windows Server Deployment](https://raw.githubusercontent.com/Virus192/elk-soc-automation/main/images/1_VCKRGZAd1IWFjfHcdCKCDg.png)
 
-## [Day 6: Introduction to Fleet Server and Elastic Agent](https://github.com/Virus192/Day-7-Introduction-to-Fleet-Server-and-Elastic-Agent)
+## [Day 6: Introduction to Fleet Server and Elastic Agent](https://github.com/Virus192/Day-6-Introduction-to-Fleet-Server-and-Elastic-Agent)
 
  🌟 **Day 6 of MYDFIR 30 Days SOC Challenge: Exploring Fleet Server and Elastic Agent** 🌟
 
