@@ -154,3 +154,38 @@ Today’s focus was on deploying a Windows Server and making it publicly accessi
 Deploying a Windows Server on Vultr Cloud is quick and easy, making it a great option for creating publicly available servers while keeping costs low. Looking forward to more challenges ahead!
 
 ![insert image here](image.jpg)
+
+## [Day 7: Introduction to Fleet Server and Elastic Agent](https://github.com/Virus192/Day-6-Deploying-a-Windows-Server-on-Vultr-Cloud)
+
+ 🌟 **Day 7 of MYDFIR 30 Days SOC Challenge: Exploring Fleet Server and Elastic Agent** 🌟
+
+Today’s focus is on mastering the centralized management of Elastic Agents using Fleet Server, an essential tool for large-scale environments.
+
+Imagine deploying Elastic Agents on 100 Windows machines to monitor PowerShell logs, only to realize they’re not forwarding logs to your Elasticsearch instance. What would you do? Instead of manually reconfiguring each endpoint, you could use Fleet Server to handle everything centrally.
+
+## Key Components
+
+### Elastic Agent
+
+- A unified tool for monitoring logs, metrics, and other data types, with policies you can update remotely.
+- Two modes of installation:
+  - **Fleet Managed Mode:** Centralized management
+  - **Standalone:** Manual setup
+
+### Fleet Server
+
+- The backbone of centralized agent management, allowing you to:
+  - Deploy policies
+  - Add integrations
+  - Update agents across all endpoints with ease
+
+## Why Use Fleet Server?
+
+- **Centralized Management:** Control agent policies and integrations from one dashboard.
+- **Seamless Updates:** Easily push updates to all agents at once, saving hours of manual work.
+- **Simplified Unenrollment:** Unenroll agents with just a few clicks, eliminating the need to touch every machine.
+
+Leveraging Fleet Server simplifies your SOC operations, ensuring efficient data collection and security monitoring across your environment.
+
+![insert image here](image.jpg)
+
