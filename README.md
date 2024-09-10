@@ -137,7 +137,7 @@ Deploying a Windows Server on Vultr Cloud is a simple process, ideal for making 
 
 ## [Day 6: Deploying a Windows Server on Vultr Cloud](https://github.com/Virus192/Day-5-Deploying-a-Windows-Server-on-Vultr-Cloud)
 
- 🚀 Day 6 of MYDFIR 30 Days SOC Challenge: Deploying a Windows Server on Vultr Cloud 🚀
+ 🚀 **Day 6 of MYDFIR 30 Days SOC Challenge: Deploying a Windows Server on Vultr Cloud** 🚀
 
 Today’s focus was on deploying a Windows Server and making it publicly accessible. We moved both our Windows and Ubuntu Servers out of VPC 2.0 to expose them to the internet. Here’s a step-by-step breakdown of how I accomplished this task.
 
