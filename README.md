@@ -205,7 +205,7 @@ Successfully deployed a Fleet Server and enrolled a Windows Server, enabling rea
 ![insert image here](image.jpg)
 
 
-## [Day 8: Installing Sysmon on a Windows Server](https://github.com/Virus192/Day-7-Setting-Up-Elastic-Fleet-Server-and-Enrolling-Windows-Server)
+## [Day 8: Installing Sysmon on a Windows Server](https://github.com/Virus192/Day-8-Installing-Sysmon-on-a-Windows-Server)
 
 
 **Day 8 of MYDFIR 30 Days SOC Challenge: Installing Sysmon for Advanced Telemetry** 🚀
@@ -228,3 +228,27 @@ Sysmon is now actively monitoring the Windows Server, providing valuable insight
 Stay tuned for more security setups!
 
 ![insert image here](image.jpg)
+
+## [Day 9: Introduction to Sysmon](https://github.com/Virus192/Day-8-Installing-Sysmon-on-a-Windows-Server)
+
+ 🌟 **Day 9 of MYDFIR 30 Days SOC Challenge: Introduction to Sysmon** 🌟
+
+Today's focus was all about enhancing endpoint visibility with Sysmon—a crucial tool for security analysts in detecting and responding to advanced threats. In the world of cybersecurity, having detailed logs of system activities is essential, and Sysmon steps in to provide that extra layer of monitoring.
+
+## 🔍 What is Sysmon?
+
+Sysmon, part of Microsoft's Sysinternals Suite, is a tool that logs critical system events like process creation, network connections, and file modifications. It goes beyond default Windows logging by offering highly detailed telemetry that allows SOC analysts to track malicious activity in real time. Using a customizable configuration file, Sysmon can fine-tune the events you want to monitor, making it an invaluable asset during investigations.
+
+## 💡 Key Capabilities
+
+- **Process Creation Logging**: Tracks newly created processes with detailed command-line information.
+- **File Hashing**: Logs file hashes (SHA1, MD5, etc.) to aid in threat intelligence and OSINT.
+- **Network Connection Monitoring**: Records inbound/outbound connections, crucial for detecting C2 activities.
+- **Dynamic Rule Filtering**: Focus on the most relevant events by customizing rule-based filters.
+
+Sysmon empowers SOC teams to gain deeper insights into endpoint activities, offering the ability to detect attacks early and correlate events across different logs using unique Process GUIDs.
+
+Stay tuned for more insights tomorrow as we dive deeper into endpoint monitoring with Sysmon! 💪
+
+![insert image here](image.jpg)
+
