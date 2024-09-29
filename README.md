@@ -296,3 +296,26 @@ While tools like **Hydra**, **Hashcat**, and **John the Ripper** exist, they sho
 
 Brute force attacks are persistent but preventable. Stay informed, protect your data, and keep the hackers out! 🌐✨
 
+## [Day 12: Setting Up an SSH Server and Analyzing Authentication Logs](https://github.com/Virus192/Day-11-Fortify-Your-Digital-Walls-with-Brute-Force-Attack-Prevention)
+
+🔒 **Day 12 of MYDFIR 30 Days SOC Challenge: Setting Up an SSH Server and Analyzing Authentication Logs** 🔒
+
+Today, we focused on setting up an SSH server on Vultr and analyzing its authentication logs for better security monitoring.
+
+### Deploying Your SSH Server 🌐
+1. **Log In** to your Vultr account and click “Deploy.”
+2. **Select Specifications**:
+   - **Type**: Cloud Compute — Shared CPU
+   - **Location**: Choose your preferred region
+   - **Image**: Ubuntu 24.04 LTS x64
+   - **Plan**: Regular Cloud Compute (25GB SSD, 1 vCPU, 1GB Memory)
+3. **Name and Deploy** your server.
+
+### Accessing Your Server 💻
+- **SSH Access**: Use PowerShell with the provided credentials.
+- **Update System**:
+   ```bash
+   apt-get update && apt-get upgrade
+   
+![insert image here](image.jpg)
+
