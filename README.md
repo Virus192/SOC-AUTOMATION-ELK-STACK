@@ -273,25 +273,25 @@ With Sysmon and Windows Defender logs now integrated, we’ve built a solid foun
 
 ![insert image here](image.jpg)
 
-## Day 11: Fortify Your Digital Walls with Brute Force Attack Prevention 🔐
+## Day 11: Fortify Your Digital Walls with Brute Force Attack Prevention 
 
-🚀 **Day 11 of MYDFIR 30 Days SOC Challenge: Fortify Your Digital Walls with Brute Force Attack Prevention** 🚀
+🔐 **Day 11 of MYDFIR 30 Days SOC Challenge: Fortify Your Digital Walls with Brute Force Attack Prevention** 🔐
 
 Today’s insight centers around **Brute Force Attacks** — the digital equivalent of trying every key in the world to unlock your door. Hackers use this method to guess passwords and gain unauthorized access to accounts and systems.
 
-## Types of Brute Force Attacks 🔍
+### Types of Brute Force Attacks 🔍
 1. **Simple Brute Force**: Trying all possible character combinations.
 2. **Dictionary Attack**: Using a list of common words or passwords.
 3. **Credential Stuffing**: Reusing passwords leaked from data breaches.
 
-## How to Defend Yourself ⚔️
+### How to Defend Yourself ⚔️
 1. **Strong, Unique Passwords**: Use long, complex passwords or passphrases.
 2. **Multi-Factor Authentication (MFA)**: Add a second layer of security.
 3. **Password Manager**: Safely store and manage unique passwords.
 4. **Stay Vigilant**: Watch out for phishing attempts.
 5. **Regular Updates**: Change passwords regularly, especially after breaches.
 
-## Common Brute Force Tools 💻
+### Common Brute Force Tools 💻
 While tools like **Hydra**, **Hashcat**, and **John the Ripper** exist, they should only be used ethically, with permission, for security testing.
 
 ---
