@@ -296,7 +296,7 @@ While tools like **Hydra**, **Hashcat**, and **John the Ripper** exist, they sho
 
 Brute force attacks are persistent but preventable. Stay informed, protect your data, and keep the hackers out! 🌐✨
 
-## [Day 12: Setting Up an SSH Server and Analyzing Authentication Logs](https://github.com/Virus192/Day-11-Fortify-Your-Digital-Walls-with-Brute-Force-Attack-Prevention)
+## [Day 12: Setting Up an SSH Server and Analyzing Authentication Logs](https://github.com/Virus192/Day-12-Setting-Up-an-SSH-Server-and-Analyzing-Authentication-Logs)
 
 🔒 **Day 12 of MYDFIR 30 Days SOC Challenge: Setting Up an SSH Server and Analyzing Authentication Logs** 🔒
 
