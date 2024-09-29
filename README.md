@@ -273,7 +273,7 @@ With Sysmon and Windows Defender logs now integrated, we’ve built a solid foun
 
 ![insert image here](image.jpg)
 
-## [Day 11: Fortify Your Digital Walls with Brute Force Attack Prevention](https://github.com/Virus192/Day-10-Ingesting-Sysmon-and-Windows-Defender-Logs-into-Elasticsearch)
+## [Day 11: Fortify Your Digital Walls with Brute Force Attack Prevention](https://github.com/Virus192/Day-11-Fortify-Your-Digital-Walls-with-Brute-Force-Attack-Prevention)
 
 🔐 **Day 11 of MYDFIR 30 Days SOC Challenge: Fortify Your Digital Walls with Brute Force Attack Prevention** 🔐
 
