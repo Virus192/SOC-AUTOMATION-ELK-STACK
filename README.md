@@ -167,7 +167,7 @@ Imagine deploying Elastic Agents on 100 Windows machines to monitor PowerShell l
 
 Leveraging Fleet Server simplifies your SOC operations, ensuring efficient data collection and security monitoring across your environment.
 
-![insert image here](image.jpg)
+![insert image here](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/a.png)
 
 
 ## [Day 7: Setting Up Elastic Fleet Server and Enrolling Windows Server](https://github.com/Virus192/Day-7-Setting-Up-Elastic-Fleet-Server-and-Enrolling-Windows-Server)
