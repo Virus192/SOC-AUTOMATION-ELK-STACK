@@ -319,7 +319,7 @@ Today, we focused on setting up an SSH server on Vultr and analyzing its authent
    
 ![insert image here](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_5987967405093143047_w.jpg)
 
-## [Day 13: Elastic Agent Installation on Ubuntu for Server Monitoring](https://github.com/Virus192/Day-12-Setting-Up-an-SSH-Server-and-Analyzing-Authentication-Logs)
+## [Day 13: Elastic Agent Installation on Ubuntu for Server Monitoring](https://github.com/Virus192/Day-13-Elastic-Agent-Installation-on-Ubuntu-for-Server-Monitoring)
 
 🚀**Day 13: Elastic Agent Installation on Ubuntu for Server Monitoring** 🚀
 
