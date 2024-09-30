@@ -321,7 +321,7 @@ Today, we focused on setting up an SSH server on Vultr and analyzing its authent
 
 ## [Day 13: Elastic Agent Installation on Ubuntu for Server Monitoring](https://github.com/Virus192/Day-13-Elastic-Agent-Installation-on-Ubuntu-for-Server-Monitoring)
 
-🚀**Day 13: Elastic Agent Installation on Ubuntu for Server Monitoring** 🚀
+🚀**Day 13 of MYDFIR 30 Days SOC Challenge:: Elastic Agent Installation on Ubuntu for Server Monitoring** 🚀
 
 Today, we're diving into setting up an **Elastic Agent** on your Ubuntu server to help monitor performance and security. 🌐 This powerful tool allows you to centralize logs, monitor in real-time, gain security insights, and scale easily as your infrastructure grows. 💡
 
@@ -352,3 +352,27 @@ Stay tuned for tomorrow's guide, where we'll dive into creating **brute force al
 
 ![Alt text](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_5989808863731369922_w.jpg)
 
+## [Day 14: SSH Brute Force Alerts with Elastic](https://github.com/Virus192/Day-13-Elastic-Agent-Installation-on-Ubuntu-for-Server-Monitoring)
+
+🚨🔐**Day 14 of MYDFIR 30 Days SOC Challenge:: SSH Brute Force Alerts with Elastic** 🚨🔐
+
+
+Today’s mission: setting up **SSH brute force attack** alerts in Elastic to safeguard your servers. These attacks involve hackers guessing passwords to gain access. Let’s get proactive with alerts and visual dashboards!
+
+## Why Monitor SSH Attacks?
+- **Early Detection**: Spot attacks quickly for fast action.
+- **Pattern Insights**: Learn from repeated attacks.
+- **System Protection**: Prevent overload from constant login attempts.
+
+## Setting Up Alerts ⚠️
+- Track failed login attempts, target accounts, and IPs.
+- Use Elastic to create an alert based on these conditions.
+- Customize thresholds for precision.
+
+## Visual Dashboard 🌍
+Create a map in Elastic to track where the attacks come from globally.
+
+## Wrap-Up 🛡️
+With alerts and dashboards in place, you can detect and visualize attacks, keeping your systems safe. Stay secure! 💪🔒
+
+![Alt text](URL_to_image)
