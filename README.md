@@ -376,3 +376,25 @@ Create a map in Elastic to track where the attacks come from globally.
 With alerts and dashboards in place, you can detect and visualize attacks, keeping your systems safe. Stay secure! 💪🔒
 
 ![Alt text](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_5994510577315202212_w.jpg)
+
+## [Day 15: Protecting Your Network from RDP Abuse](https://github.com/Virus192/Day-14-SSH-Brute-Force-Alerts-with-Elastic)
+
+🖥️**Day 15 of MYDFIR 30 Days SOC Challenge:: Protecting Your Network from RDP Abuse** 🔒
+
+On our journey through cybersecurity, today we're diving into one of the most abused tools in the cyber world: **Remote Desktop Protocol (RDP)**. RDP allows users to remotely access computers, making IT troubleshooting a breeze. However, when exposed, it can become a hacker’s doorway.
+
+Attackers often use methods like **brute force attacks** or **credential theft** to break in through RDP, allowing them to move across networks, steal data, or deploy ransomware. 😨
+
+## 🔍 Finding Exposed RDP Endpoints:
+Using tools like **Shodan** or **Censys**, you can scan for open RDP services on port 3389. These tools help you spot any endpoints that may be vulnerable and take action to secure them.
+
+## 🛡️ Protecting Yourself from RDP Abuse:
+- **Turn off RDP** when not needed.
+- Use **Multi-Factor Authentication (MFA)** to add an extra layer of security.
+- **Restrict access** using firewalls or VPNs.
+- **Enforce strong passwords** and disable default admin accounts.
+
+Remember, a layered defense approach is essential to keeping your systems safe. Secure your RDP access today, and stay vigilant!
+
+![Alt text](URL_to_image)
+
