@@ -377,7 +377,7 @@ With alerts and dashboards in place, you can detect and visualize attacks, keepi
 
 ![Alt text](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_5994510577315202212_w.jpg)
 
-## [Day 15: Protecting Your Network from RDP Abuse](https://github.com/Virus192/Day-14-SSH-Brute-Force-Alerts-with-Elastic)
+## [Day 15: Protecting Your Network from RDP Abuse](https://github.com/Virus192/Day-15-Protecting-Your-Network-from-RDP-Abuse)
 
 🖥️**Day 15 of MYDFIR 30 Days SOC Challenge:: Protecting Your Network from RDP Abuse** 🔒
 
