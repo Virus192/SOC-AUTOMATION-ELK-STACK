@@ -359,20 +359,20 @@ Stay tuned for tomorrow's guide, where we'll dive into creating **brute force al
 
 Today’s mission: setting up **SSH brute force attack** alerts in Elastic to safeguard your servers. These attacks involve hackers guessing passwords to gain access. Let’s get proactive with alerts and visual dashboards!
 
-** Why Monitor SSH Attacks?**
+**Why Monitor SSH Attacks?**
 - **Early Detection**: Spot attacks quickly for fast action.
 - **Pattern Insights**: Learn from repeated attacks.
 - **System Protection**: Prevent overload from constant login attempts.
 
-** Setting Up Alerts ⚠️**
+**Setting Up Alerts ⚠️**
 - Track failed login attempts, target accounts, and IPs.
 - Use Elastic to create an alert based on these conditions.
 - Customize thresholds for precision.
 
-** Visual Dashboard 🌍**
+**Visual Dashboard** 🌍
 Create a map in Elastic to track where the attacks come from globally.
 
-** Wrap-Up 🛡️**
+**Wrap-Up 🛡️**
 With alerts and dashboards in place, you can detect and visualize attacks, keeping your systems safe. Stay secure! 💪🔒
 
 ![Alt text](URL_to_image)
