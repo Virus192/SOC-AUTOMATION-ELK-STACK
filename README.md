@@ -271,7 +271,7 @@ Today’s focus was on enhancing visibility into our Windows environment by sett
 
 With Sysmon and Windows Defender logs now integrated, we’ve built a solid foundation for monitoring and responding to security events within our Windows infrastructure.
 
-![insert image here](image.jpg)
+![insert image here](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_5981008608885852041_w.jpg)
 
 ## [Day 11: Fortify Your Digital Walls with Brute Force Attack Prevention](https://github.com/Virus192/Day-11-Fortify-Your-Digital-Walls-with-Brute-Force-Attack-Prevention)
 
