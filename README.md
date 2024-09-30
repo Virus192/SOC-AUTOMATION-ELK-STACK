@@ -396,5 +396,5 @@ Using tools like **Shodan** or **Censys**, you can scan for open RDP services on
 
 Remember, a layered defense approach is essential to keeping your systems safe. Secure your RDP access today, and stay vigilant!
 
-![Alt text](URL_to_image)
+![Alt text](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_5999014176942572320_w.jpg)
 
