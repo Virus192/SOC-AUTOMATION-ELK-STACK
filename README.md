@@ -375,4 +375,4 @@ Create a map in Elastic to track where the attacks come from globally.
 **Wrap-Up 🛡️**
 With alerts and dashboards in place, you can detect and visualize attacks, keeping your systems safe. Stay secure! 💪🔒
 
-![Alt text](URL_to_image)
+![Alt text](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_5994510577315202212_w.jpg)
