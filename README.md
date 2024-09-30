@@ -350,5 +350,5 @@ Stay tuned for tomorrow's guide, where we'll dive into creating **brute force al
 
 **Almost there—keep pushing!** 🔥
 
-![Alt text](URL_to_image)
+![Alt text](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_5989808863731369922_w.jpg)
 
