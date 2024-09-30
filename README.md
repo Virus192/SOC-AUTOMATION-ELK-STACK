@@ -317,5 +317,5 @@ Today, we focused on setting up an SSH server on Vultr and analyzing its authent
    ```bash
    apt-get update && apt-get upgrade
    
-![insert image here](image.jpg)
+![insert image here](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_5987967405093143047_w.jpg)
 
