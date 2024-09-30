@@ -319,3 +319,36 @@ Today, we focused on setting up an SSH server on Vultr and analyzing its authent
    
 ![insert image here](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_5987967405093143047_w.jpg)
 
+## [Day 13: Elastic Agent Installation on Ubuntu for Server Monitoring](https://github.com/Virus192/Day-12-Setting-Up-an-SSH-Server-and-Analyzing-Authentication-Logs)
+
+🚀**Day 13: Elastic Agent Installation on Ubuntu for Server Monitoring** 🚀
+
+Today, we're diving into setting up an **Elastic Agent** on your Ubuntu server to help monitor performance and security. 🌐 This powerful tool allows you to centralize logs, monitor in real-time, gain security insights, and scale easily as your infrastructure grows. 💡
+
+## Steps
+
+1. **Elastic Environment Setup**:
+   - Log into your Elastic GUI
+   - Navigate to "Fleet" under "Management"
+
+2. **Create Agent Policy**:
+   - Build a custom policy for your server (e.g., `Ubuntu-Server-Policy`)
+
+3. **Generate Installation Command**:
+   - Use the command generated in "Fleet" for your Linux server
+
+4. **Install Agent on Ubuntu**:
+   - SSH into your server
+   - Execute the installation command
+
+5. **Verify the Installation**:
+   - Check for incoming logs in the "Discover" tab of Elastic
+
+🎉 **Congrats**! You now have a robust monitoring solution for your server. 
+
+Stay tuned for tomorrow's guide, where we'll dive into creating **brute force alerts** and a **dashboard** for attack visualization. 👀
+
+**Almost there—keep pushing!** 🔥
+
+![Alt text](URL_to_image)
+
