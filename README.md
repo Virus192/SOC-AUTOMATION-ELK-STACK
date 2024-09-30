@@ -352,7 +352,7 @@ Stay tuned for tomorrow's guide, where we'll dive into creating **brute force al
 
 ![Alt text](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_5989808863731369922_w.jpg)
 
-## [Day 14: SSH Brute Force Alerts with Elastic](https://github.com/Virus192/Day-13-Elastic-Agent-Installation-on-Ubuntu-for-Server-Monitoring)
+## [Day 14: SSH Brute Force Alerts with Elastic](https://github.com/Virus192/Day-14-SSH-Brute-Force-Alerts-with-Elastic)
 
 🚨🔐**Day 14 of MYDFIR 30 Days SOC Challenge:: SSH Brute Force Alerts with Elastic** 🚨🔐
 
