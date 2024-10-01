@@ -404,24 +404,24 @@ Remember, a layered defense approach is essential to keeping your systems safe. 
 
 Today's focus was on enhancing our Windows Server security by configuring alerts for RDP and SSH brute force attacks using Elastic. Here's a quick rundown of what we accomplished:
 
-  **RDP Brute Force Monitoring** 🖥️
+**RDP Brute Force Monitoring** 🖥️
 
 - Set up log monitoring in Elastic Discover
 - Filtered for Event ID 4625 (failed login attempts)
 - Created a search threshold rule for RDP brute force detection
 
-  **SSH Brute Force Detection** 🔐
+**SSH Brute Force Detection** 🔐
 
 - Crafted a custom detection rule for SSH attempts
 - Focused on failed root user login attempts
 - Set threshold to 5 failed attempts within a specified timeframe
 
-  **Alert Configuration** ⚠️
+**Alert Configuration** ⚠️
 
 - Customized rule settings for both RDP and SSH
 - Set up alerts to run every 5 minutes with a 5-minute look-back period
 
-  **Monitoring Setup** 👀
+**Monitoring Setup** 👀
 
 - Configured the Alerts section for easy viewing of suspicious activities
 
