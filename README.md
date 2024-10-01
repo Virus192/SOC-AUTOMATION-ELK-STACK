@@ -398,3 +398,33 @@ Remember, a layered defense approach is essential to keeping your systems safe. 
 
 ![Alt text](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_5999014176942572320_w.jpg)
 
+## [Day 16: Setting Up Alerts for RDP and SSH Brute Force Attacks on Windows Server ](https://github.com/Virus192/Day-15-Protecting-Your-Network-from-RDP-Abuse)
+
+🚨 **Day 16 of MYDFIR 30 Days SOC Challenge: Setting Up Alerts for RDP and SSH Brute Force Attacks on Windows Server** 🚨
+
+Today's focus was on enhancing our Windows Server security by configuring alerts for RDP and SSH brute force attacks using Elastic. Here's a quick rundown of what we accomplished:
+
+## RDP Brute Force Monitoring 🖥️
+
+- Set up log monitoring in Elastic Discover
+- Filtered for Event ID 4625 (failed login attempts)
+- Created a search threshold rule for RDP brute force detection
+
+## SSH Brute Force Detection 🔐
+
+- Crafted a custom detection rule for SSH attempts
+- Focused on failed root user login attempts
+- Set threshold to 5 failed attempts within a specified timeframe
+
+## Alert Configuration ⚠️
+
+- Customized rule settings for both RDP and SSH
+- Set up alerts to run every 5 minutes with a 5-minute look-back period
+
+## Monitoring Setup 👀
+
+- Configured the Alerts section for easy viewing of suspicious activities
+
+By implementing these measures, we've significantly boosted our ability to detect and respond to potential brute force attacks on our Windows Server. Remember, staying vigilant and proactive is key to maintaining a robust security posture! 💪🛡️
+
+![Example Image](example.png)
