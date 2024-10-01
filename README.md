@@ -398,7 +398,7 @@ Remember, a layered defense approach is essential to keeping your systems safe. 
 
 ![Alt text](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_5999014176942572320_w.jpg)
 
-## [Day 16: Setting Up Alerts for RDP and SSH Brute Force Attacks on Windows Server ](https://github.com/Virus192/Day-15-Protecting-Your-Network-from-RDP-Abuse)
+## [Day 16: Setting Up Alerts for RDP and SSH Brute Force Attacks on Windows Server ](https://github.com/Virus192/Day-16-Setting-Up-Alerts-for-RDP-and-SSH-Brute-Force-Attacks-on-Windows-Server)
 
 🚨 **Day 16 of MYDFIR 30 Days SOC Challenge: Setting Up Alerts for RDP and SSH Brute Force Attacks on Windows Server** 🚨
 
