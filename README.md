@@ -435,27 +435,27 @@ By implementing these measures, we've significantly boosted our ability to detec
 
 Today, we focused on creating a robust dashboard in Elastic to monitor both RDP and SSH authentication attempts. This visualization tool will help us quickly identify potential security threats and unauthorized access attempts. Here's what we accomplished:
 
-## RDP Failed Authentication Monitoring 🖥️
+**RDP Failed Authentication Monitoring** 🖥️
 
 - Created a map layer using **Choropleth** to visualize failed RDP attempts by country.
 - Used event code **4625** to track failed Windows authentication attempts.
 
-## Successful RDP Login Tracking ✅
+**Successful RDP Login Tracking** ✅
 
 - Set up monitoring for successful RDP logins using event code **4624**.
 - Tracked both **Remote Interactive (Type 10)** and **Unlock (Type 7)** events.
 
-## Enhanced Dashboard with Detailed Tables 📋
+**Enhanced Dashboard with Detailed Tables** 📋
 
 - Added tables to display usernames, source IPs, and countries for both failed and successful attempts.
 - Created separate tables for SSH and RDP activities.
 
-## Comprehensive View 🔍
+**Comprehensive View** 🔍
 
 - Combined RDP and SSH monitoring into a single dashboard.
 - Provided visual maps and detailed tables for both protocols.
 
-## Insights at a Glance 💡
+**Insights at a Glance** 💡
 
 - Enabled quick identification of usernames, source IPs, and countries involved in authentication attempts.
 - Facilitated easy tracking of total attempts and their outcomes.
