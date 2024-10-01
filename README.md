@@ -462,4 +462,4 @@ Today, we focused on creating a robust dashboard in Elastic to monitor both RDP 
 
 By implementing this dashboard, we've significantly improved our ability to monitor, investigate, and respond to suspicious authentication activities across our network. Stay vigilant and keep refining your security measures! 🛡️🔐
 
-![Example Image](example.png)
+![Example Image](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_6003690240981714182_w.jpg)
