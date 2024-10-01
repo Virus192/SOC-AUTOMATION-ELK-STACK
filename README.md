@@ -428,3 +428,38 @@ Today's focus was on enhancing our Windows Server security by configuring alerts
 By implementing these measures, we've significantly boosted our ability to detect and respond to potential brute force attacks on our Windows Server. Remember, staying vigilant and proactive is key to maintaining a robust security posture! 💪🛡️
 
 ![Example Image](example.png)
+
+## [Day 17: Building a Comprehensive Dashboard for RDP & SSH Authentication Monitoring ](https://github.com/Virus192/Day-16-Setting-Up-Alerts-for-RDP-and-SSH-Brute-Force-Attacks-on-Windows-Server)
+
+ 📊 **Day 17 of MYDFIR 30 Days SOC Challenge: Building a Comprehensive Dashboard for RDP & SSH Authentication Monitoring** 📊
+
+Today, we focused on creating a robust dashboard in Elastic to monitor both RDP and SSH authentication attempts. This visualization tool will help us quickly identify potential security threats and unauthorized access attempts. Here's what we accomplished:
+
+## RDP Failed Authentication Monitoring 🖥️
+
+- Created a map layer using **Choropleth** to visualize failed RDP attempts by country.
+- Used event code **4625** to track failed Windows authentication attempts.
+
+## Successful RDP Login Tracking ✅
+
+- Set up monitoring for successful RDP logins using event code **4624**.
+- Tracked both **Remote Interactive (Type 10)** and **Unlock (Type 7)** events.
+
+## Enhanced Dashboard with Detailed Tables 📋
+
+- Added tables to display usernames, source IPs, and countries for both failed and successful attempts.
+- Created separate tables for SSH and RDP activities.
+
+## Comprehensive View 🔍
+
+- Combined RDP and SSH monitoring into a single dashboard.
+- Provided visual maps and detailed tables for both protocols.
+
+## Insights at a Glance 💡
+
+- Enabled quick identification of usernames, source IPs, and countries involved in authentication attempts.
+- Facilitated easy tracking of total attempts and their outcomes.
+
+By implementing this dashboard, we've significantly improved our ability to monitor, investigate, and respond to suspicious authentication activities across our network. Stay vigilant and keep refining your security measures! 🛡️🔐
+
+![Example Image](example.png)
