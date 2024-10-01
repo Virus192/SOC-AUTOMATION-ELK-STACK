@@ -429,7 +429,7 @@ By implementing these measures, we've significantly boosted our ability to detec
 
 ![Example Image](example.png)
 
-## [Day 17: Building a Comprehensive Dashboard for RDP & SSH Authentication Monitoring ](https://github.com/Virus192/Day-16-Setting-Up-Alerts-for-RDP-and-SSH-Brute-Force-Attacks-on-Windows-Server)
+## [Day 17: Building a Comprehensive Dashboard for RDP & SSH Authentication Monitoring ](https://github.com/Virus192/Day-17-Building-a-Comprehensive-Dashboard-for-RDP-SSH-Authentication-Monitoring)
 
  📊 **Day 17 of MYDFIR 30 Days SOC Challenge: Building a Comprehensive Dashboard for RDP & SSH Authentication Monitoring** 📊
 
