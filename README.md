@@ -463,3 +463,42 @@ Today, we focused on creating a robust dashboard in Elastic to monitor both RDP 
 By implementing this dashboard, we've significantly improved our ability to monitor, investigate, and respond to suspicious authentication activities across our network. Stay vigilant and keep refining your security measures! 🛡️🔐
 
 ![Example Image](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_6003690240981714182_w.jpg)
+
+## [Day 18: Understanding Command & Control (C2) in Cyber Attacks ]()
+
+🕵️**Day 18 of MYDFIR 30 Days SOC Challenge: Understanding Command & Control (C2) in Cyber Attacks**🕵️
+
+Today, we delved into the world of Command & Control (C2), a crucial component in cyber attacks. Here's what we learned:
+
+**C2 Basics** 📡
+
+- **Definition**: Techniques used by attackers to communicate with compromised systems
+- **Purpose**: Allows remote control of victim machines for various malicious activities
+
+**Importance of C2** 🎯
+
+- Maintains access to compromised systems
+- Enables execution of commands for further exploitation
+- Facilitates data exfiltration and malware deployment
+
+**Popular C2 Tools** 🛠️
+
+- **Metasploit**: Versatile framework for penetration testing
+- **Cobalt Strike**: Commercial tool often misused by attackers
+- **Sliver**: Open-source framework with multiple communication channels
+- **Mythic**: Modern C2 platform with web-based UI and Docker integration
+
+**Spotlight on Mythic** 🔍
+
+- Features web-based interface for easy management
+- Uses Docker and Go for efficient deployment
+- Supports multiple C2 profiles and communication channels
+- Offers payload tracking for precise operations
+
+**Future Plans** 🚀
+
+- Upcoming hands-on setup of a Mythic C2 server
+- Practical demonstration of deploying an agent on a Windows server
+
+Understanding C2 is crucial for both attackers and defenders in the cybersecurity landscape. Stay tuned as we prepare to dive deeper into practical C2 operations in our upcoming sessions! 💪🛡️
+
