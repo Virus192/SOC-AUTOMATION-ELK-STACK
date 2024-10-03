@@ -536,4 +536,4 @@ This attack path simulation provides invaluable insights into how attackers oper
 
 Stay tuned for our next session, where we'll begin setting up the infrastructure for this simulated attack! 💪🔒
 
-![Example Image](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_6010098396611854211_w.jpg)
+![Example Image](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/Copy%20of%20Copy%20of%20MYDFIR-C%26C.drawio.png)
