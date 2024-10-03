@@ -502,3 +502,4 @@ Today, we delved into the world of Command & Control (C2), a crucial component i
 
 Understanding C2 is crucial for both attackers and defenders in the cybersecurity landscape. Stay tuned as we prepare to dive deeper into practical C2 operations in our upcoming sessions! 💪🛡️
 
+![Example Image](example.png)
