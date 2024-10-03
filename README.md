@@ -538,7 +538,7 @@ Stay tuned for our next session, where we'll begin setting up the infrastructure
 
 ![Example Image](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/Copy%20of%20Copy%20of%20MYDFIR-C%26C.drawio.png)
 
-## [Day 20: Setting Up Your Own Mythic C2 Instance]()
+## [Day 20: Setting Up Your Own Mythic C2 Instance](https://github.com/Virus192/Day-20-Setting-Up-Your-Own-Mythic-C2-Instance)
 
 🕵️‍♂️**Day 20 of MYDFIR 30 Days SOC Challenge: Setting Up Your Own Mythic C2 Instance**🕵️‍♂️
 
