@@ -464,7 +464,7 @@ By implementing this dashboard, we've significantly improved our ability to moni
 
 ![Example Image](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_6003690240981714182_w.jpg)
 
-## [Day 18: Understanding Command & Control (C2) in Cyber Attacks ]()
+## [Day 18: Understanding Command & Control (C2) in Cyber Attacks ](https://github.com/Virus192/Day-18-Understanding-Command-Control-C2-in-Cyber-Attacks)
 
 🕵️**Day 18 of MYDFIR 30 Days SOC Challenge: Understanding Command & Control (C2) in Cyber Attacks**🕵️
 
@@ -504,7 +504,7 @@ Understanding C2 is crucial for both attackers and defenders in the cybersecurit
 
 ![Example Image](example.png)
 
-## [Day 19: Mapping a Simulated Attack Path]()
+## [Day 19: Mapping a Simulated Attack Path](https://github.com/Virus192/Day-19-Mapping-a-Simulated-Attack-Path)
 
 🗺️**Day 19 of MYDFIR 30 Days SOC Challenge: Mapping a Simulated Attack Path**🗺️
 
@@ -538,7 +538,7 @@ Stay tuned for our next session, where we'll begin setting up the infrastructure
 
 ![Example Image](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/Copy%20of%20Copy%20of%20MYDFIR-C%26C.drawio.png)
 
-## [Day 20: Setting Up Your Own Mythic C2 Instance()
+## [Day 20: Setting Up Your Own Mythic C2 Instance]()
 
 🕵️‍♂️**Day 20 of MYDFIR 30 Days SOC Challenge: Setting Up Your Own Mythic C2 Instance**🕵️‍♂️
 
