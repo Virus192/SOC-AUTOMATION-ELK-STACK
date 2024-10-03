@@ -537,3 +537,34 @@ This attack path simulation provides invaluable insights into how attackers oper
 Stay tuned for our next session, where we'll begin setting up the infrastructure for this simulated attack! 💪🔒
 
 ![Example Image](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/Copy%20of%20Copy%20of%20MYDFIR-C%26C.drawio.png)
+
+## [Day 20: Setting Up Your Own Mythic C2 Instance()
+
+🕵️‍♂️**Day 20 of MYDFIR 30 Days SOC Challenge: Setting Up Your Own Mythic C2 Instance**🕵️‍♂️
+
+Today, we delved into the world of Command and Control (C2) by setting up our own Mythic C2 instance. Here's what we accomplished:
+
+## Cloud Server Setup ☁️
+- Deployed an **Ubuntu 22.04 LTS** server on **Vultr**
+- Configured with **2 vCPUs, 4GB RAM, and 80GB SSD**
+
+## Server Preparation 🛠️
+- Updated and upgraded the system
+- Installed **Docker Compose** and **Make**
+
+## Mythic Installation 🚀
+- Cloned the Mythic repository from **GitHub**
+- Ran the installation script and started Docker
+
+## Firewall Configuration 🔒
+- Set up a firewall group in Vultr to control access
+
+## Mythic Web GUI Access 🖥️
+- Accessed the Mythic interface via **HTTPS**
+- Retrieved login credentials from the server
+
+This hands-on experience with Mythic C2 provides valuable insights into how attackers might establish and maintain control over compromised systems. Remember, always practice in controlled environments and use these tools responsibly!
+
+Stay tuned for our next session, where we'll dive deeper into Kali Linux and create our first Mythic agent! 💪🛡️
+
+![Example Image](example.png)
