@@ -503,3 +503,37 @@ Today, we delved into the world of Command & Control (C2), a crucial component i
 Understanding C2 is crucial for both attackers and defenders in the cybersecurity landscape. Stay tuned as we prepare to dive deeper into practical C2 operations in our upcoming sessions! 💪🛡️
 
 ![Example Image](example.png)
+
+## [Day 19: Mapping a Simulated Attack Path]()
+
+🗺️**Day 19 of MYDFIR 30 Days SOC Challenge: Mapping a Simulated Attack Path**🗺️
+
+Today, we focused on creating a comprehensive attack diagram to simulate a cyber attack on a Windows Server. This exercise helps us understand the attacker's perspective and strengthens our defense strategies. Here's what we covered:
+
+**Initial Access**🚪
+- Simulated RDP brute-force attack using Kali Linux.
+
+**Discovery** 🔍
+- Explored basic system reconnaissance commands:
+  - `whoami`
+  - `ipconfig`
+  - `net user`
+  - `net group`
+
+**Defense Evasion** 🛡️
+- Simulated disabling of Windows Defender.
+
+**Execution** 🚀
+- Used PowerShell to download and execute the Mythic Agent.
+
+**Command and Control (C2)** 🕹️
+- Established a simulated C2 session using the Mythic Agent.
+
+**Exfiltration** 📤
+- Demonstrated data theft by extracting a fake `password.txt` file.
+
+This attack path simulation provides invaluable insights into how attackers operate, helping us build more robust defenses. By understanding each phase, from initial access to data exfiltration, we can better protect our systems and respond effectively to real-world threats.
+
+Stay tuned for our next session, where we'll begin setting up the infrastructure for this simulated attack! 💪🔒
+
+![Example Image](example.png)
