@@ -601,3 +601,39 @@ This hands-on exercise provided valuable insights into the attacker's perspectiv
 Stay tuned for our next session, where we'll shift gears to defense and set up alerts for detecting Mythic C2 activities! 🛡️💪
 
 ![Example Image](example.png)
+
+## [Day 22: Detecting Mythic C2 Activity with Elastic Alerts and Dashboards]()
+
+🕵️‍♂️**Day 22 of MYDFIR 30 Days SOC Challenge: Detecting Mythic C2 Activity with Elastic Alerts and Dashboards**🕵️‍♂️
+
+Today, we focused on creating a robust detection system for Mythic C2 activity using Elastic. We set up custom alerts and built a comprehensive dashboard to visualize potential threats. Here's what we accomplished:
+
+### Alert Creation 🚨
+
+- Set up an alert for Mythic C2 activity based on process name and event code.
+- Created a custom detection rule for specific file execution.
+
+### Dashboard Development 📊
+
+Built a dashboard with key visualizations:
+
+1. **Process Creation Events (Event ID 1)**
+2. **Outbound Network Connections (Event ID 3)**
+3. **Windows Defender Disabled Events (Event ID 5001)**
+
+### Key Steps 🔑
+
+- Used Elastic's Discover feature to filter logs.
+- Investigated process hashes using open-source intelligence tools.
+- Created custom queries for each visualization panel.
+
+### Tools Used 🛠️
+
+- **Elastic Stack** (Elasticsearch, Kibana)
+- **VirusTotal** for hash verification.
+
+This hands-on exercise enhanced our ability to detect and visualize potential C2 activities in real-time. Remember, continuous monitoring and alert refinement are crucial for maintaining robust security!
+
+Stay tuned for our next session, where we'll explore setting up a free ticketing system to manage cases and alerts effectively! 🎟️💼
+
+![Example Image](example.png)
