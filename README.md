@@ -569,7 +569,7 @@ Stay tuned for our next session, where we'll dive deeper into Kali Linux and cre
 
 ![Example Image](example.png)
 
-## [Day 21: Simulating a Brute Force Attack with Mythic C2]()
+## [Day 21: Simulating a Brute Force Attack with Mythic C2](https://github.com/Virus192/Day-21-Simulating-a-Brute-Force-Attack-with-Mythic-C2)
 
 🕵️‍♂️**Day 21 of MYDFIR 30 Days SOC Challenge: Simulating a Full Attack Chain with Mythic C2**🕵️‍♂️
 
