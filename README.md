@@ -568,3 +568,36 @@ This hands-on experience with Mythic C2 provides valuable insights into how atta
 Stay tuned for our next session, where we'll dive deeper into Kali Linux and create our first Mythic agent! 💪🛡️
 
 ![Example Image](example.png)
+
+## [Day 21: Simulating a Brute Force Attack with Mythic C2]()
+
+🕵️‍♂️**Day 21 of MYDFIR 30 Days SOC Challenge: Simulating a Full Attack Chain with Mythic C2**🕵️‍♂️
+
+Today, we conducted a comprehensive simulation of a Brute Force Attack chain using Kali Linux, Mythic C2, and a Windows Server. Here's what we accomplished:
+
+### Attack Phases 🎭
+- **Initial Access:** Performed RDP brute-force attack using Crowbar
+- **Discovery:** Executed basic reconnaissance commands
+- **Defense Evasion:** Disabled Windows Defender
+- **Execution:** Deployed Mythic C2 agent on target
+- **Command & Control:** Established C2 session
+- **Exfiltration:** Retrieved a fake passwords file
+
+### Key Steps 🔑
+- Set up a Windows Server with a dummy file
+- Created a custom wordlist for brute-forcing
+- Generated and deployed a Mythic C2 payload
+- Used PowerShell to download and execute the payload
+- Interacted with the compromised system via Mythic GUI
+
+### Tools Used 🛠️
+- Kali Linux
+- Crowbar for RDP brute-forcing
+- Mythic C2 framework
+- PowerShell for payload execution
+
+This hands-on exercise provided valuable insights into the attacker's perspective, enhancing our understanding of complex attack chains. Remember, always practice ethical hacking and obtain proper authorization before testing any systems!
+
+Stay tuned for our next session, where we'll shift gears to defense and set up alerts for detecting Mythic C2 activities! 🛡️💪
+
+![Example Image](example.png)
