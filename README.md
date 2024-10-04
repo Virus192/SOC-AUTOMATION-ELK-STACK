@@ -544,22 +544,22 @@ Stay tuned for our next session, where we'll begin setting up the infrastructure
 
 Today, we delved into the world of Command and Control (C2) by setting up our own Mythic C2 instance. Here's what we accomplished:
 
-## Cloud Server Setup ☁️
+### Cloud Server Setup ☁️
 - Deployed an **Ubuntu 22.04 LTS** server on **Vultr**
 - Configured with **2 vCPUs, 4GB RAM, and 80GB SSD**
 
-## Server Preparation 🛠️
+### Server Preparation 🛠️
 - Updated and upgraded the system
 - Installed **Docker Compose** and **Make**
 
-## Mythic Installation 🚀
+### Mythic Installation 🚀
 - Cloned the Mythic repository from **GitHub**
 - Ran the installation script and started Docker
 
-## Firewall Configuration 🔒
+### Firewall Configuration 🔒
 - Set up a firewall group in Vultr to control access
 
-## Mythic Web GUI Access 🖥️
+### Mythic Web GUI Access 🖥️
 - Accessed the Mythic interface via **HTTPS**
 - Retrieved login credentials from the server
 
