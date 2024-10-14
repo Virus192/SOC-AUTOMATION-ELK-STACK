@@ -567,7 +567,7 @@ This hands-on experience with Mythic C2 provides valuable insights into how atta
 
 Stay tuned for our next session, where we'll dive deeper into Kali Linux and create our first Mythic agent! 💪🛡️
 
-![Example Image](example.png)
+![Example Image](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_6012391733054260189_w.jpg)
 
 ## [Day 21: Simulating a Brute Force Attack with Mythic C2](https://github.com/Virus192/Day-21-Simulating-a-Brute-Force-Attack-with-Mythic-C2)
 
