@@ -600,7 +600,7 @@ This hands-on exercise provided valuable insights into the attacker's perspectiv
 
 Stay tuned for our next session, where we'll shift gears to defense and set up alerts for detecting Mythic C2 activities! 🛡️💪
 
-![Example Image](example.png)
+![Example Image](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_6017298952233272252_w.jpg)
 
 ## [Day 22: Detecting Mythic C2 Activity with Elastic Alerts and Dashboards](https://github.com/Virus192/Day-22-Detecting-Mythic-C2-Activity-with-Elastic-Alerts-and-Dashboards)
 
