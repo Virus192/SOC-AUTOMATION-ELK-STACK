@@ -602,7 +602,7 @@ Stay tuned for our next session, where we'll shift gears to defense and set up a
 
 ![Example Image](example.png)
 
-## [Day 22: Detecting Mythic C2 Activity with Elastic Alerts and Dashboards]()
+## [Day 22: Detecting Mythic C2 Activity with Elastic Alerts and Dashboards](https://github.com/Virus192/Day-22-Detecting-Mythic-C2-Activity-with-Elastic-Alerts-and-Dashboards)
 
 🕵️‍♂️**Day 22 of MYDFIR 30 Days SOC Challenge: Detecting Mythic C2 Activity with Elastic Alerts and Dashboards**🕵️‍♂️
 
