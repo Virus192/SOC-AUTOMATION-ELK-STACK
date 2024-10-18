@@ -636,4 +636,4 @@ This hands-on exercise enhanced our ability to detect and visualize potential C2
 
 Stay tuned for our next session, where we'll explore setting up a free ticketing system to manage cases and alerts effectively! 🎟️💼
 
-![Example Image](example.png)
+![Example Image](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_6019550752046957237_w.jpg)
