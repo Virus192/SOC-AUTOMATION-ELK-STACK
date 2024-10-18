@@ -637,3 +637,40 @@ This hands-on exercise enhanced our ability to detect and visualize potential C2
 Stay tuned for our next session, where we'll explore setting up a free ticketing system to manage cases and alerts effectively! 🎟️💼
 
 ![Example Image](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_6019550752046957237_w.jpg)
+
+## [Day 23: Streamlining Alert Management with OS Ticket]()
+
+🎟️**Day 23 of MYDFIR 30 Days SOC Challenge: Streamlining Alert Management with OS Ticket**🎟️
+
+Today, we explored the importance of ticketing systems in managing security alerts and introduced OS Ticket as a free, open-source solution. Here's what we covered:
+
+## Key Points 🔑
+- Defined ticketing systems and their role in security operations.
+- Explored benefits of using ticketing for alert management.
+- Introduced OS Ticket as a free alternative to commercial solutions.
+
+## OS Ticket Features 🛠️
+- Customizable fields for tailored ticket information.
+- Ticket filters for automatic routing.
+- Assignment and transfer capabilities.
+- Service Level Agreement (SLA) settings.
+
+## Implementation Benefits 📊
+- Improved alert tracking and documentation.
+- Enhanced collaboration between teams.
+- Clear audit trails for incident handling.
+- Mimics the structure of a small Security Operations Center (SOC).
+
+## Deployment Options 🖥️
+- Self-hosting (on-premises) for direct control.
+- Managed hosting for a hands-off approach.
+
+## Next Steps 🚀
+- Upcoming guide on setting up and configuring OS Ticket.
+- Integration into existing security workflows.
+
+This exploration of OS Ticket provides valuable insights into streamlining alert management processes. By implementing a ticketing system, we can significantly improve our incident response capabilities and overall security posture.
+
+Stay tuned for our next session, where we'll dive into the practical setup and configuration of OS Ticket! 💪🔒
+![Alt text](path/to/image.png)
+
