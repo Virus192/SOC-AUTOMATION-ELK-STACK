@@ -638,7 +638,7 @@ Stay tuned for our next session, where we'll explore setting up a free ticketing
 
 ![Example Image](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_6019550752046957237_w.jpg)
 
-## [Day 23: Streamlining Alert Management with OS Ticket]()
+## [Day 23: Streamlining Alert Management with OS Ticket](https://github.com/Virus192/Day-23-Streamlining-Alert-Management-with-OS-Ticket)
 
 🎟️**Day 23 of MYDFIR 30 Days SOC Challenge: Streamlining Alert Management with OS Ticket**🎟️
 
