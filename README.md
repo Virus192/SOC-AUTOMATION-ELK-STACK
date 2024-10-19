@@ -836,3 +836,50 @@ This hands-on investigation of RDP Brute Force alerts has enhanced our ability t
 Stay tuned for our next session, where we'll explore advanced attack simulations using Mythic C2! 💪🔒
 
 ![Alt text]()
+
+## [Day 28: Investigating a Mythic C2 Framework]()
+
+
+🕵️‍♂️**Day 28 of MYDFIR 30 Days SOC Challenge: Investigating a Mythic C2 Framework**🕵️‍♂️
+
+Today, we conducted a deep dive into investigating the Mythic C2 framework, focusing on the agent named svchost-Phenoixrocks.exe. Here's what we accomplished:
+
+### Investigation Steps 🔍
+
+1. Initial Discovery
+   - Used Elastic's Discover feature to search for the C2 agent
+   - Set time frame to 30 days for comprehensive analysis
+
+2. Identifying C2 Activity
+   - Analyzed network telemetry for unusual traffic patterns
+   - Looked for heartbeat-like network connections
+   - Examined process creations, especially rundll32.exe
+
+3. Dashboard Analysis
+   - Utilized custom dashboard "Pheonix-Suspicious Activity"
+   - Focused on suspicious process creations (PowerShell, cmd.exe, rundll32.exe)
+
+4. Timeline of Events
+   - Traced outbound PowerShell connections
+   - Analyzed file creation and execution events
+   - Correlated process chains using Process GUIDs and PIDs
+
+5. Alert Creation
+   - Set up a rule for "Pheonix-Mythic-C2-Apollo-Agent-Detected"
+   - Configured webhook to create tickets in OS Ticket system
+
+### Tools Used 🛠️
+
+- Elastic Stack (Elasticsearch, Kibana)
+- Sysmon for enhanced telemetry
+- OS Ticket for alert management
+
+### Key Takeaways 💡
+
+- C2 frameworks often leave traces in network traffic and process creations
+- Correlating events using process GUIDs and PIDs is crucial for building a complete picture
+- Automating alert creation streamlines the incident response process
+
+Stay tuned for our next session, where we'll explore installing and configuring Elastic EDR (Elastic Defend) to further enhance our security posture! 🛡️💪
+
+![Alt text]()
