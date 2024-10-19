@@ -673,7 +673,7 @@ This exploration of OS Ticket provides valuable insights into streamlining alert
 
 Stay tuned for our next session, where we'll dive into the practical setup and configuration of OS Ticket! 💪🔒
 
-## [Day 24: Setting Up and Configuring osTicket]()
+## [Day 24: Setting Up and Configuring osTicket](https://github.com/Virus192/Day-24-Setting-Up-and-Configuring-osTicket)
 
 🎫**Day 24 of MYDFIR 30 Days SOC Challenge: Setting Up and Configuring osTicket**🎫
 
