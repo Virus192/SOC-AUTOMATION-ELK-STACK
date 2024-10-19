@@ -691,7 +691,7 @@ Today, we dove into the practical steps of deploying and configuring osTicket, a
 ### Technical Details 🛠️
 - Used XAMPP (version 8.2.12) for web server hosting.
 - Created firewall rules for ports 80 and 443 (because nothing says "secure" like a well-guarded entrance).
-- Set up a MySQL database named **Phoenix-30-Day-DB** (because every project needs a mythical reference).
+- Set up a MySQL database named **Aurora-30-Day-DB** (because every project needs a mythical reference).
 - Configured file permissions for osTicket (ensuring our data is as secure as a squirrel’s stash).
 
 ### User Access 👥
