@@ -834,3 +834,5 @@ Today, we focused on investigating RDP Brute Force alerts and automating our res
 This hands-on investigation of RDP Brute Force alerts has enhanced our ability to detect, analyze, and respond to potential security threats efficiently, while also improving our alert management process.
 
 Stay tuned for our next session, where we'll explore advanced attack simulations using Mythic C2! 💪🔒
+
+![Alt text](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_6035328477617570253_w.jpg)
