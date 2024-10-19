@@ -708,7 +708,7 @@ Stay tuned for our next session, where we'll explore integrating osTicket with o
 
 ![Alt text](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_6028481256070693563_w.jpg)
 
-## [Day 25: Integrating OS Ticket with Elastic Stack](t)
+## [Day 25: Integrating OS Ticket with Elastic Stack](https://github.com/Virus192/Day-25-Integrating-OS-Ticket-with-Elastic-Stack)
 
 🔗**Day 25 of MYDFIR 30 Days SOC Challenge: Integrating OS Ticket with Elastic Stack**🔗
 
@@ -747,3 +747,44 @@ This integration marks a significant milestone in our SOC automation journey, en
 Stay tuned for our next session, where we'll dive into alert investigation techniques! 💪🔍
 
 ![Alt text](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_6030733055884378790_w.jpg)
+
+## [Day 26: Investigating SSH Brute Force Alerts]()
+
+🕵️**Day 26 of MYDFIR 30 Days SOC Challenge: Investigating SSH Brute Force Alerts**🕵️
+
+Today, we delved into the process of investigating SSH Brute Force alerts and automating our response. Here's what we covered:
+
+### Key Investigation Steps 🔑
+1. Analyzed the suspicious IP address
+2. Identified affected users
+3. Checked for successful login attempts
+4. Investigated post-login activities (if any)
+
+### Tools Used 🛠️
+- Elastic Security dashboard
+- AbuseIPDB for IP reputation check
+- GreyNoise for additional IP intelligence
+
+### Alert Automation 🔄
+- Modified detection rules to send alerts to OS Ticket
+- Configured Webhook action for each alert
+- Set up ticket creation in OS Ticket for incoming alerts
+
+### Ticket Management 📋
+- Accessed OS Ticket Admin Panel
+- Reviewed and assigned incoming alert tickets
+
+### Key Findings 🔍
+- Identified malicious IP associated with brute force attacks
+- Determined affected user (root)
+- No successful login attempts detected
+- No post-login activity to investigate
+
+### Next Steps 🚀
+- Upcoming guide on investigating RDP Brute Force activity
+
+This hands-on investigation of SSH Brute Force alerts has enhanced our ability to detect, analyze, and respond to potential security threats efficiently.
+
+Stay tuned for our next session, where we'll explore RDP Brute Force detection and mitigation techniques! 💪🔒
+
+![Alt text](path/to/image.png)
