@@ -673,13 +673,13 @@ This exploration of OS Ticket provides valuable insights into streamlining alert
 
 Stay tuned for our next session, where we'll dive into the practical setup and configuration of OS Ticket! 💪🔒
 
-## [Day 24: Setting Up and Configuring osTicke]()
+## [Day 24: Setting Up and Configuring osTicket]()
 
 🎫**Day 24 of MYDFIR 30 Days SOC Challenge: Setting Up and Configuring osTicket**🎫
 
 Today, we dove into the practical steps of deploying and configuring osTicket, an open-source ticketing system. Here's what we accomplished:
 
-## Key Steps 🔑
+### Key Steps 🔑
 - Deployed a Windows Server 2022 on Vultr.
 - Set up a firewall for enhanced security (because who doesn't love a good barrier?).
 - Installed XAMPP to host the web server (XAMPP: the unsung hero of local development).
@@ -688,17 +688,17 @@ Today, we dove into the practical steps of deploying and configuring osTicket, a
 - Created and configured the MySQL database.
 - Finalized osTicket configurations (not just a cakewalk, but we survived!).
 
-## Technical Details 🛠️
+### Technical Details 🛠️
 - Used XAMPP (version 8.2.12) for web server hosting.
 - Created firewall rules for ports 80 and 443 (because nothing says "secure" like a well-guarded entrance).
 - Set up a MySQL database named **Phoenix-30-Day-DB** (because every project needs a mythical reference).
 - Configured file permissions for osTicket (ensuring our data is as secure as a squirrel’s stash).
 
-## User Access 👥
+### User Access 👥
 - Set up end-user access through the client portal (making it as easy as pie for everyone).
 - Configured admin login for staff and agent access (because someone has to keep an eye on the chaos!).
 
-## Next Steps 🚀
+### Next Steps 🚀
 - Upcoming guide on integrating osTicket with existing tech stack (because why not add another layer of complexity?).
 - Plans to automate alert generation and ticket creation (so we can focus on the important stuff, like coffee breaks).
 
