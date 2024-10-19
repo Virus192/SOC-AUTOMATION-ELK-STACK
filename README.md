@@ -746,4 +746,4 @@ This integration marks a significant milestone in our SOC automation journey, en
 
 Stay tuned for our next session, where we'll dive into alert investigation techniques! 💪🔍
 
-![Alt text](path/to/image.png)
+![Alt text](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_6030733055884378790_w.jpg)
