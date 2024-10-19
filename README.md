@@ -789,7 +789,7 @@ Stay tuned for our next session, where we'll explore RDP Brute Force detection a
 
 ![Alt text](path/to/image.png)
 
-## [Day 27: Investigating RDP Brute Force Alerts]()
+## [Day 27: Investigating RDP Brute Force Alerts](https://github.com/Virus192/Day-27-Investigating-RDP-Brute-Force-Alerts)
 
 🖥️**Day 27 of MYDFIR 30 Days SOC Challenge: Investigating RDP Brute Force Alerts**🖥️
 
