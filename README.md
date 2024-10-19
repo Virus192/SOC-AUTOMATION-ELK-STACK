@@ -714,31 +714,31 @@ Stay tuned for our next session, where we'll explore integrating osTicket with o
 
 Today, we focused on seamlessly integrating OS Ticket with our Elastic Stack to automate ticket creation for security alerts. Here's what we accomplished:
 
-## Key Steps 🔑
+### Key Steps 🔑
 1. Configured OS Ticket API key
 2. Set up Elastic for API integration
 3. Created a Webhook connector in Elastic
 4. Updated OS Ticket network settings
 5. Tested the integration
 
-## Technical Details 🛠️
+### Technical Details 🛠️
 - Used OS Ticket's private IP for API integration
 - Activated Elastic's 30-Day Free Trial for API access
 - Configured Webhook connector with XML-based ticket creation
 - Updated OS Ticket server's IP configuration manually
 
-## Integration Process 🔄
+### Integration Process 🔄
 - Created API key in OS Ticket admin panel
 - Set up Webhook connector in Elastic Stack Management
 - Configured authentication using HTTP header and API key
 - Tested integration by generating a ticket from Elastic alert
 
-## Achievements 🏆
+### Achievements 🏆
 - Successfully created a mini-SOC environment
 - Automated ticket generation from Elastic alerts
 - Improved incident tracking and management workflow
 
-## Next Steps 🚀
+### Next Steps 🚀
 - Upcoming guide on investigating SSH brute force alerts
 - Further refinement of alert management process
 
