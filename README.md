@@ -706,4 +706,4 @@ This hands-on setup of osTicket provides us with a powerful tool for managing se
 
 Stay tuned for our next session, where we'll explore integrating osTicket with our existing security tools for seamless alert management! 💪🔒
 
-![Alt text](path/to/image.png)
+![Alt text](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_6028481256070693563_w.jpg)
