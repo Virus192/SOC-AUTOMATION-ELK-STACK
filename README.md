@@ -788,3 +788,49 @@ This hands-on investigation of SSH Brute Force alerts has enhanced our ability t
 Stay tuned for our next session, where we'll explore RDP Brute Force detection and mitigation techniques! 💪🔒
 
 ![Alt text](path/to/image.png)
+
+## [Day 27: Investigating RDP Brute Force Alertss]()
+
+🖥️**Day 27 of MYDFIR 30 Days SOC Challenge: Investigating RDP Brute Force Alerts**🖥️
+
+Today, we focused on investigating RDP Brute Force alerts and automating our response process. Here's what we accomplished:
+
+### Key Investigation Steps 🔑
+1. Analyzed suspicious IP address (**23.164.57.20**)
+2. Identified affected users (**Administrator account**)
+3. Checked for successful login attempts
+4. Investigated post-login activities (for a previous successful attack)
+
+### Alert Automation 🔄
+- Modified RDP Brute Force rule in Elastic
+- Configured Webhook action for automatic ticket creation
+- Set rule to run every 1 minute for real-time alerting
+
+### Investigation Findings 🔍
+- Identified IP known for RDP Brute Force attacks
+- No successful logins in current investigation
+- Reviewed a previous successful attack scenario
+
+### Post-Attack Analysis 🕵️
+- Explored potential attacker actions after successful login:
+  - Process creations
+  - Persistence mechanisms
+  - Lateral movement
+  - Exfiltration attempts
+  - Command and Control communication
+
+### Ticket Management 📋
+- Automated ticket creation in OS Ticket for RDP alerts
+- Streamlined alert tracking and assignment process
+
+### Key Takeaways 💡
+- Consistency in investigation methodology across protocols
+- Importance of understanding post-attack activities
+- Efficiency gains through alert automation
+
+### Next Steps 🚀
+- Upcoming deep dive into Mythic C2 activity analysis
+
+This hands-on investigation of RDP Brute Force alerts has enhanced our ability to detect, analyze, and respond to potential security threats efficiently, while also improving our alert management process.
+
+Stay tuned for our next session, where we'll explore advanced attack simulations using Mythic C2! 💪🔒
