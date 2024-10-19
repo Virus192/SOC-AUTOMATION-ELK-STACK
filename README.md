@@ -707,3 +707,43 @@ This hands-on setup of osTicket provides us with a powerful tool for managing se
 Stay tuned for our next session, where we'll explore integrating osTicket with our existing security tools for seamless alert management! 💪🔒
 
 ![Alt text](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_6028481256070693563_w.jpg)
+
+## [Day 25: Integrating OS Ticket with Elastic Stack](t)
+
+🔗**Day 25 of MYDFIR 30 Days SOC Challenge: Integrating OS Ticket with Elastic Stack**🔗
+
+Today, we focused on seamlessly integrating OS Ticket with our Elastic Stack to automate ticket creation for security alerts. Here's what we accomplished:
+
+## Key Steps 🔑
+1. Configured OS Ticket API key
+2. Set up Elastic for API integration
+3. Created a Webhook connector in Elastic
+4. Updated OS Ticket network settings
+5. Tested the integration
+
+## Technical Details 🛠️
+- Used OS Ticket's private IP for API integration
+- Activated Elastic's 30-Day Free Trial for API access
+- Configured Webhook connector with XML-based ticket creation
+- Updated OS Ticket server's IP configuration manually
+
+## Integration Process 🔄
+- Created API key in OS Ticket admin panel
+- Set up Webhook connector in Elastic Stack Management
+- Configured authentication using HTTP header and API key
+- Tested integration by generating a ticket from Elastic alert
+
+## Achievements 🏆
+- Successfully created a mini-SOC environment
+- Automated ticket generation from Elastic alerts
+- Improved incident tracking and management workflow
+
+## Next Steps 🚀
+- Upcoming guide on investigating SSH brute force alerts
+- Further refinement of alert management process
+
+This integration marks a significant milestone in our SOC automation journey, enabling seamless communication between our monitoring and ticketing systems.
+
+Stay tuned for our next session, where we'll dive into alert investigation techniques! 💪🔍
+
+![Alt text](path/to/image.png)
