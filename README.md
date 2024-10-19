@@ -787,7 +787,7 @@ This hands-on investigation of SSH Brute Force alerts has enhanced our ability t
 
 Stay tuned for our next session, where we'll explore RDP Brute Force detection and mitigation techniques! 💪🔒
 
-![Alt text](path/to/image.png)
+![Alt text](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_6035328477617570253_w.jpg)
 
 ## [Day 27: Investigating RDP Brute Force Alerts](https://github.com/Virus192/Day-27-Investigating-RDP-Brute-Force-Alerts)
 
@@ -835,4 +835,4 @@ This hands-on investigation of RDP Brute Force alerts has enhanced our ability t
 
 Stay tuned for our next session, where we'll explore advanced attack simulations using Mythic C2! 💪🔒
 
-![Alt text](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_6035328477617570253_w.jpg)
+![Alt text]()
