@@ -842,7 +842,7 @@ Stay tuned for our next session, where we'll explore advanced attack simulations
 
 🕵️‍♂️**Day 28 of MYDFIR 30 Days SOC Challenge: Investigating a Mythic C2 Framework**🕵️‍♂️
 
-Today, we conducted a deep dive into investigating the Mythic C2 framework, focusing on the agent named svchost-Phenoixrocks.exe. Here's what we accomplished:
+Today, we conducted a deep dive into investigating the Mythic C2 framework, focusing on the agent named svchost-Aurora.exe. Here's what we accomplished:
 
 ### Investigation Steps 🔍
 
@@ -856,7 +856,7 @@ Today, we conducted a deep dive into investigating the Mythic C2 framework, focu
    - Examined process creations, especially rundll32.exe
 
 3. Dashboard Analysis
-   - Utilized custom dashboard "Pheonix-Suspicious Activity"
+   - Utilized custom dashboard "Aurora-Suspicious Activity"
    - Focused on suspicious process creations (PowerShell, cmd.exe, rundll32.exe)
 
 4. Timeline of Events
@@ -865,7 +865,7 @@ Today, we conducted a deep dive into investigating the Mythic C2 framework, focu
    - Correlated process chains using Process GUIDs and PIDs
 
 5. Alert Creation
-   - Set up a rule for "Pheonix-Mythic-C2-Apollo-Agent-Detected"
+   - Set up a rule for "Aurora-Mythic-C2-Apollo-Agent-Detected"
    - Configured webhook to create tickets in OS Ticket system
 
 ### Tools Used 🛠️
