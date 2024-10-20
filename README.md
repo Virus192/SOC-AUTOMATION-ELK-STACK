@@ -883,3 +883,41 @@ Today, we conducted a deep dive into investigating the Mythic C2 framework, focu
 Stay tuned for our next session, where we'll explore installing and configuring Elastic EDR (Elastic Defend) to further enhance our security posture! 🛡️💪
 
 ![Alt text](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_6039832077244940894_x.jpg)
+
+## [Day 29: Integrating Elastic Defend for Incident Response]()
+
+🛡️**Day 29 of MYDFIR 30 Days SOC Challenge:: Integrating Elastic Defend for Incident Response**🛡️
+
+Today, we focused on integrating Elastic Defend, a powerful EDR solution, into our Elastic Stack. Here's what we accomplished:
+
+### Installation Steps 🔧
+
+1. Accessed Integrations Menu and added Elastic Defend
+2. Selected "Complete EDR" configuration for full protection
+3. Chose "traditional endpoints" as the endpoint type
+4. Deployed to existing Windows host policy
+
+### Verification and Testing 🔍
+
+1. Verified installation in Security > Manage Endpoints
+2. Simulated malware activity using svc-aurora.exe
+3. Observed Elastic Defend automatically blocking the malicious file
+4. Investigated malware prevention alerts in Kibana
+
+### Advanced Features 🚀
+
+1. Set up automated response actions for malware detection
+2. Tested host isolation feature (available in paid versions)
+3. Observed Elastic Defend's behavior when attempting to re-download quarantined files
+
+### Key Takeaways 💡
+
+- Elastic Defend provides robust endpoint protection against malicious activities
+- Automated response actions enhance security efficiency
+- The solution offers detailed telemetry for thorough incident investigation
+- Free tier offers strong protection, while paid versions include additional features like host isolation
+
+Stay tuned for our final day, where we'll wrap up the 30-day SOC challenge and reflect on our journey! 🏆🎉
+
+![Alt text]()
+
