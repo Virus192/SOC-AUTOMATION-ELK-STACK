@@ -837,7 +837,7 @@ Stay tuned for our next session, where we'll explore advanced attack simulations
 
 ![Alt text]()
 
-## [Day 28: Investigating a Mythic C2 Framework]()
+## [Day 28: Investigating a Mythic C2 Framework](https://github.com/Virus192/Day-28-Investigating-a-Mythic-C2-Framework)
 
 
 🕵️‍♂️**Day 28 of MYDFIR 30 Days SOC Challenge: Investigating a Mythic C2 Framework**🕵️‍♂️
