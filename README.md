@@ -886,7 +886,7 @@ Stay tuned for our next session, where we'll explore installing and configuring 
 
 ## [Day 29: Integrating Elastic Defend for Incident Response]()
 
-🛡️**Day 29 of MYDFIR 30 Days SOC Challenge:: Integrating Elastic Defend for Incident Response**🛡️
+🛡️**Day 29 of MYDFIR 30 Days SOC Challenge: Integrating Elastic Defend for Incident Response**🛡️
 
 Today, we focused on integrating Elastic Defend, a powerful EDR solution, into our Elastic Stack. Here's what we accomplished:
 
@@ -921,3 +921,58 @@ Stay tuned for our final day, where we'll wrap up the 30-day SOC challenge and r
 
 ![Alt text]()
 
+## [Day 30: Fortifying Windows Server Security]()
+
+🏆**Day 30 of MYDFIR 30 Days SOC Challenge: Fortifying Windows Server Security**🛡️
+
+On this final day, we implemented crucial security controls for Windows Server based on our findings throughout the challenge. Here's what we accomplished:
+
+### Key Security Controls Implemented 🔒
+
+1. Limited RDP Access 🚫
+   - Restricted to trusted IPs or VPN
+   - Firewall configuration to block unauthorized access
+
+2. Scheduled Regular Maintenance 🔄
+   - Enabled automatic updates
+   - Created maintenance windows for patch management
+
+3. Strong Password Policies 🔑
+   - Implemented complex password requirements
+   - Set up regular password rotations
+
+4. Deployed Elastic Defend (EDR) 🛡️
+   - Activated for malware detection and blocking
+   - Configured host isolation where possible
+
+5. Enforced Least Privilege 👥
+   - Applied minimal permissions principle
+
+6. Configured Windows Firewall 🧱
+   - Defined strict inbound/outbound rules
+
+7. Regular Patching and Updates 🛠️
+   - Ensured latest security patches are applied
+
+8. Centralized Logging 📜
+   - Set up audit policies for important security events
+   - Utilized Elastic Stack for log centralization
+
+9. Implemented Network Segmentation 🔀
+   - Isolated sensitive areas to limit lateral movement
+
+10. Enabled Multi-Factor Authentication 🔐
+    - Added extra layer of security for RDP and admin accounts
+
+11. Enforced PowerShell Script Execution Policy 📜
+    - Modified Local Group Policy to allow only signed scripts
+
+### Key Takeaways 💡
+
+- Implementing these controls significantly hardens Windows Server against breaches
+- Continuous vigilance and strategy refinement are crucial for maintaining strong defenses
+- A multi-layered approach to security provides the best protection against diverse threats
+
+Congratulations on completing the 30-day SOC Challenge! You've built a robust foundation for effective security operations. Keep refining your skills and stay vigilant! 🎉🏅
+
+![Alt text]()
