@@ -884,7 +884,7 @@ Stay tuned for our next session, where we'll explore installing and configuring 
 
 ![Alt text](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_6039832077244940894_x.jpg)
 
-## [Day 29: Integrating Elastic Defend for Incident Response]()
+## [Day 29: Integrating Elastic Defend for Incident Response](https://github.com/Virus192/Day-29-Integrating-Elastic-Defend-for-Incident-Response)
 
 🛡️**Day 29 of MYDFIR 30 Days SOC Challenge: Integrating Elastic Defend for Incident Response**🛡️
 
@@ -921,7 +921,7 @@ Stay tuned for our final day, where we'll wrap up the 30-day SOC challenge and r
 
 ![Alt text]()
 
-## [Day 30: Fortifying Windows Server Security]()
+## [Day 30: Fortifying Windows Server Security](https://github.com/Virus192/Day-30-Fortifying-Windows-Server-Security)
 
 🏆**Day 30 of MYDFIR 30 Days SOC Challenge: Fortifying Windows Server Security**🛡️
 
