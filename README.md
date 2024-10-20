@@ -842,7 +842,7 @@ Stay tuned for our next session, where we'll explore advanced attack simulations
 
 🕵️‍♂️**Day 28 of MYDFIR 30 Days SOC Challenge: Investigating a Mythic C2 Framework**🕵️‍♂️
 
-Today, we conducted a deep dive into investigating the Mythic C2 framework, focusing on the agent named svchost-Aurora.exe. Here's what we accomplished:
+Today, we conducted a deep dive into investigating the Mythic C2 framework, focusing on the agent named svc-Aurora.exe. Here's what we accomplished:
 
 ### Investigation Steps 🔍
 
@@ -882,4 +882,4 @@ Today, we conducted a deep dive into investigating the Mythic C2 framework, focu
 
 Stay tuned for our next session, where we'll explore installing and configuring Elastic EDR (Elastic Defend) to further enhance our security posture! 🛡️💪
 
-![Alt text]()
+![Alt text](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_6039832077244940894_x.jpg)
