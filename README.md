@@ -919,7 +919,7 @@ Today, we focused on integrating Elastic Defend, a powerful EDR solution, into o
 
 Stay tuned for our final day, where we'll wrap up the 30-day SOC challenge and reflect on our journey! 🏆🎉
 
-![Alt text]()
+![Alt text](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_6039832077244940974_w.jpg)
 
 ## [Day 30: Fortifying Windows Server Security](https://github.com/Virus192/Day-30-Fortifying-Windows-Server-Security)
 
@@ -975,4 +975,4 @@ On this final day, we implemented crucial security controls for Windows Server b
 
 Congratulations on completing the 30-day SOC Challenge! You've built a robust foundation for effective security operations. Keep refining your skills and stay vigilant! 🎉🏅
 
-![Alt text]()
+![Alt text](https://raw.githubusercontent.com/Virus192/SOC-AUTOMATION-ELK-STACK/refs/heads/main/images/photo_6039540521979986909_w.jpg)
