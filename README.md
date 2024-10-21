@@ -1,5 +1,5 @@
-# 30 Days SOC Automation Challenge
- ELK Stack SOC automation using Fleet and OS Ticketing Server
+# 30 Days SOC Automation Project
+ Advanced Mythic C2 Detection and Response Framework Using ELK Stack for Real-Time Threat Monitoring
 
 ## Day 1: Logical Diagram
 
