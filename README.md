@@ -796,7 +796,7 @@ Stay tuned for our next session, where we'll explore RDP Brute Force detection a
 Today, we focused on investigating RDP Brute Force alerts and automating our response process. Here's what we accomplished:
 
 ### Key Investigation Steps 🔑
-1. Analyzed suspicious IP address (**23.164.57.20**)
+1. Analyzed suspicious IP address (**194.26.135.52**)
 2. Identified affected users (**Administrator account**)
 3. Checked for successful login attempts
 4. Investigated post-login activities (for a previous successful attack)
